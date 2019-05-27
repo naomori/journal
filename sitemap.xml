@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/</loc>
+    <loc>https://naomori.github.io/journal/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
+    <loc>https://naomori.github.io/journal/</loc>
     <priority>0</priority>
   </url>
   
