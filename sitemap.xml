@@ -3,17 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/categories/</loc>
+    <loc>https://naomori.github.io/journal/posts/2019-05-29/</loc>
+    <lastmod>2019-05-29T07:48:39+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-05-29T07:48:39+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/ted/</loc>
+    <lastmod>2019-05-29T07:48:39+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2019-05-29T07:48:39+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2019-05-29T07:48:39+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/categories/</loc>
     <priority>0</priority>
   </url>
   
