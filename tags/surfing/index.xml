@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on naomori&#39;s Diary</title>
-    <link>https://naomori.github.io/journal/posts/</link>
-    <description>Recent content in Posts on naomori&#39;s Diary</description>
+    <title>Surfing on naomori&#39;s Diary</title>
+    <link>https://naomori.github.io/journal/tags/surfing/</link>
+    <description>Recent content in Surfing on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 May 2019 08:17:09 +0900</lastBuildDate>
     
-	<atom:link href="https://naomori.github.io/journal/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naomori.github.io/journal/tags/surfing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,20 +20,6 @@
       <description>Yesterday, I surfed for the first time in two years. The waves were waist high and very good for me. The water temperature was still a little cold and I needed a wetsuit.
 Surfing after a long time was very pleasant and fun, I felt like going to keep surfing from now on.
 This is the surfboard I used. It&amp;rsquo;s the Softech&amp;rsquo;s soft-surfboard: SALLY FITZGIBBONS SIGNATURE 7&amp;rsquo;0&amp;rdquo;. This long, buoyant surfboard is good for me because I am not strong and underexercised.</description>
-    </item>
-    
-    <item>
-      <title>2019-05-29: A TED talk that impressed me</title>
-      <link>https://naomori.github.io/journal/posts/2019-05-29/</link>
-      <pubDate>Wed, 29 May 2019 07:48:39 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/posts/2019-05-29/</guid>
-      <description>&amp;ldquo;How to build your confidence - and spark it others&amp;rdquo; I lose my confidence when I fail and disappointed myself,
-when I was given cold stares, when I was blamed, and
-when I was ignored.
-This TED talk, Ms. Brittany Packnett&amp;rsquo;s speech, gives me a confidence.
-It tells me that I need not lose my confidence.
-Impressed words  Confidence is the necessary spark before everything that follows. Permission births confidence, community nurtures it and curiosity affirms it.</description>
     </item>
     
   </channel>
