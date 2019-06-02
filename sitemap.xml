@@ -85,6 +85,19 @@
   </url>
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2019-04-16/</loc>
+    <lastmod>2019-04-16T11:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/honeymoon/</loc>
+    <lastmod>2019-04-16T11:30:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/categories/</loc>
     <priority>0</priority>
   </url>
