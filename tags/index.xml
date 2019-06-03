@@ -6,10 +6,37 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 19:14:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 19:32:23 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>programming</title>
+      <link>https://naomori.github.io/journal/tags/programming/</link>
+      <pubDate>Sun, 02 Jun 2019 19:32:23 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://naomori.github.io/journal/tags/python/</link>
+      <pubDate>Sun, 02 Jun 2019 19:32:23 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>udemy</title>
+      <link>https://naomori.github.io/journal/tags/udemy/</link>
+      <pubDate>Sun, 02 Jun 2019 19:32:23 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/udemy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>run</title>
