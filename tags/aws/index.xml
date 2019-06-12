@@ -6,10 +6,21 @@
     <description>Recent content in aws on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2019 18:10:54 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 09:44:58 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-06-12: AWS Summit Tokyo 2019 Day1</title>
+      <link>https://naomori.github.io/journal/posts/2019-06-12/</link>
+      <pubDate>Wed, 12 Jun 2019 09:44:58 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-06-12/</guid>
+      <description>I attended AWS Summit Tokyo 2019 today. It will be held in 3 days. I&amp;rsquo;m gonna attend it every days.
+Keynote (10:00-11:30) The music was loud at the venue and it was like rock concert, so I was a little excited. The opening of keynote was started with movies and dance. It&amp;rsquo;s completely concert.
+In this AWS Summit Tokyo 2019, 33,000+ have been registered. AWS has 50% share in cloud business, it&amp;rsquo;s great.</description>
+    </item>
     
     <item>
       <title>2019-05-31: AWS DeepRacer League Workshop</title>

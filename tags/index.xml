@@ -6,10 +6,37 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 09:44:58 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aws</title>
+      <link>https://naomori.github.io/journal/tags/aws/</link>
+      <pubDate>Wed, 12 Jun 2019 09:44:58 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chainer</title>
+      <link>https://naomori.github.io/journal/tags/chainer/</link>
+      <pubDate>Wed, 12 Jun 2019 09:44:58 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/chainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deepracer</title>
+      <link>https://naomori.github.io/journal/tags/deepracer/</link>
+      <pubDate>Wed, 12 Jun 2019 09:44:58 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/deepracer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bufferin</title>
@@ -39,7 +66,7 @@
     </item>
     
     <item>
-      <title>Surfing</title>
+      <title>surfing</title>
       <link>https://naomori.github.io/journal/tags/surfing/</link>
       <pubDate>Sat, 08 Jun 2019 22:00:00 +0900</pubDate>
       
@@ -125,15 +152,6 @@
       <pubDate>Thu, 30 May 2019 18:10:54 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/rl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aws</title>
-      <link>https://naomori.github.io/journal/tags/aws/</link>
-      <pubDate>Thu, 30 May 2019 18:10:54 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/aws/</guid>
       <description></description>
     </item>
     
