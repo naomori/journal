@@ -6,10 +6,20 @@
     <description>Recent content in Posts on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2019 09:44:58 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-06-13: AWS Summit Tokyo 2019 Day2</title>
+      <link>https://naomori.github.io/journal/posts/2019-06-13/</link>
+      <pubDate>Thu, 13 Jun 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-06-13/</guid>
+      <description>Continuing from yesterday, I attended AWS Summit Tokyo 2019 today, too. This morning I used the Shonan Liner and the limited express Wakashio, so it was comfortable to come to the Kaihin-Makuhari station.
+AWS Sumerian (10:00-10:40) AWS Sumerian provides Environments of development and distribution for eXtended Reality(XR). XR represents Virtual Reality(VR), Augmented Reality(AR), and Mixed Reality(MR). A presenter said that the XR Application developed by Sumerian works on various environments.</description>
+    </item>
     
     <item>
       <title>2019-06-12: AWS Summit Tokyo 2019 Day1</title>
