@@ -6,10 +6,21 @@
     <description>Recent content in Posts on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 09:47:54 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-06-14: AWS Summit Tokyo 2019 Day3</title>
+      <link>https://naomori.github.io/journal/posts/2019-06-14/</link>
+      <pubDate>Fri, 14 Jun 2019 09:47:54 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-06-14/</guid>
+      <description>Today, I attneded AWS Summit Tokyo 2019: the final day. I used the Shonan Liner and the limited express Wakashio this morning, too. It was so comfortable that I can&amp;rsquo;t imagine coming to Kaihin Makuhari without getting on the express.
+Keynote (10:00-11:30) It was the almost same as the Day 1&amp;rsquo;s keynote. Furthermore, the presenter talked too much and it was overtime. Panasonic&amp;rsquo;s speech wasn&amp;rsquo;t good neither.
+[初級] AWS コンテナサービス入門 (12:00-12:40) The presenter talked very well, so I could understand about the AWS Container Services.</description>
+    </item>
     
     <item>
       <title>2019-06-13: AWS Summit Tokyo 2019 Day2</title>
