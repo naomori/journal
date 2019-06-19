@@ -34,6 +34,25 @@
   </url>
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2019-06-15/</loc>
+    <lastmod>2019-06-15T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/home/</loc>
+    <lastmod>2019-06-15T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/ise-city/</loc>
+    <lastmod>2019-06-15T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2019-06-14/</loc>
     <lastmod>2019-06-14T09:47:54+09:00</lastmod>
     <changefreq>monthly</changefreq>
