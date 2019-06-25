@@ -332,22 +332,41 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2019-04-17/</loc>
-    <lastmod>2019-04-17T22:00:00+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2019-04-18/</loc>
+    <lastmod>2019-04-18T22:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://naomori.github.io/journal/tags/afternoon-tea/</loc>
+    <lastmod>2019-04-18T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/english-breakfast/</loc>
+    <lastmod>2019-04-18T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/tags/honeymoon/</loc>
-    <lastmod>2019-04-17T22:00:00+09:00</lastmod>
+    <lastmod>2019-04-18T22:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/london/</loc>
-    <lastmod>2019-04-17T22:00:00+09:00</lastmod>
+    <lastmod>2019-04-18T22:00:00+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2019-04-17/</loc>
+    <lastmod>2019-04-17T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
