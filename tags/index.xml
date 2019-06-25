@@ -6,10 +6,19 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2019 18:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 18:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>zozo</title>
+      <link>https://naomori.github.io/journal/tags/zozo/</link>
+      <pubDate>Tue, 25 Jun 2019 18:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/zozo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>english</title>
@@ -147,7 +156,7 @@
     </item>
     
     <item>
-      <title>Surfing</title>
+      <title>surfing</title>
       <link>https://naomori.github.io/journal/tags/surfing/</link>
       <pubDate>Sat, 08 Jun 2019 22:00:00 +0900</pubDate>
       
