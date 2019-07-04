@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2019-07-03/</loc>
+    <lastmod>2019-07-03T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-07-03T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2019-07-03T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/english/</loc>
+    <lastmod>2019-07-03T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2019-07-03T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2019-07-02/</loc>
+    <lastmod>2019-07-02T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/airweave/</loc>
+    <lastmod>2019-07-02T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/sleep/</loc>
+    <lastmod>2019-07-02T22:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2019-07-01/</loc>
     <lastmod>2019-07-01T22:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,25 +60,7 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2019-07-01T22:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
-    <lastmod>2019-07-01T22:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/tags/enoshima/</loc>
-    <lastmod>2019-07-01T22:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/</loc>
     <lastmod>2019-07-01T22:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -93,12 +125,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/tags/bear-grylls/</loc>
-    <lastmod>2019-06-27T19:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/english/</loc>
     <lastmod>2019-06-27T19:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>

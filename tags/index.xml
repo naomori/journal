@@ -6,10 +6,37 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>english</title>
+      <link>https://naomori.github.io/journal/tags/english/</link>
+      <pubDate>Wed, 03 Jul 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>airweave</title>
+      <link>https://naomori.github.io/journal/tags/airweave/</link>
+      <pubDate>Tue, 02 Jul 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/airweave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sleep</title>
+      <link>https://naomori.github.io/journal/tags/sleep/</link>
+      <pubDate>Tue, 02 Jul 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/sleep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>enoshima</title>
@@ -71,15 +98,6 @@
       <pubDate>Thu, 27 Jun 2019 19:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/bear-grylls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>https://naomori.github.io/journal/tags/english/</link>
-      <pubDate>Thu, 27 Jun 2019 19:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/english/</guid>
       <description></description>
     </item>
     
