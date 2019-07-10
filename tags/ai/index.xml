@@ -6,10 +6,20 @@
     <description>Recent content in AI on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-07-09: A new task</title>
+      <link>https://naomori.github.io/journal/posts/2019-07-09/</link>
+      <pubDate>Tue, 09 Jul 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-07-09/</guid>
+      <description>It held a first meeting of my new task, deep learning for Embedded device. As a first milestone, I&amp;rsquo;m going to build a deep learning development environment on NVIDIA&amp;rsquo;s Jetson TX2 development kit.
+And I&amp;rsquo;m going to participate in Deep Learning training. It&amp;rsquo;s interesting to try new technique. But it&amp;rsquo;s not easy to learn new technique. I&amp;rsquo;ll do my best.</description>
+    </item>
     
     <item>
       <title>2019-07-04: Embedded AI</title>
