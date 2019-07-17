@@ -3,6 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2019-07-17-homework/</loc>
+    <lastmod>2019-07-17T17:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-07-17T17:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2019-07-17T17:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2019-07-12/</loc>
+    <lastmod>2019-07-12T16:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2019-07-11/</loc>
     <lastmod>2019-07-11T19:15:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -22,19 +48,7 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2019-07-11T19:15:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/tags/</loc>
-    <lastmod>2019-07-11T19:15:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/</loc>
     <lastmod>2019-07-11T19:15:00+09:00</lastmod>
     <priority>0</priority>
   </url>
