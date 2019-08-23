@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2019-08-20/</loc>
-    <lastmod>2019-08-20T18:40:00+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2019-08-23-homework/</loc>
+    <lastmod>2019-08-23T18:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2019-08-23T18:30:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2019-08-20T18:40:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-23T18:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/</loc>
+    <loc>https://naomori.github.io/journal/posts/2019-08-20/</loc>
     <lastmod>2019-08-20T18:40:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -36,21 +45,24 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
+    <loc>https://naomori.github.io/journal/tags/japanese-cuisine/</loc>
     <lastmod>2019-08-14T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/japanese-cuisine/</loc>
+    <loc>https://naomori.github.io/journal/tags/</loc>
     <lastmod>2019-08-14T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/yukata/</loc>
     <lastmod>2019-08-14T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -175,13 +187,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/ai/</loc>
     <lastmod>2019-07-11T19:15:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/deeplearning/</loc>
     <lastmod>2019-07-11T19:15:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -236,7 +250,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/wfh/</loc>
     <lastmod>2019-07-05T17:50:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -263,7 +278,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/english/</loc>
     <lastmod>2019-07-03T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -276,13 +292,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/airweave/</loc>
     <lastmod>2019-07-02T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/sleep/</loc>
     <lastmod>2019-07-02T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -295,13 +313,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/enoshima/</loc>
     <lastmod>2019-07-01T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/running/</loc>
     <lastmod>2019-07-01T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -314,7 +334,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/surfin/</loc>
     <lastmod>2019-06-30T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -327,13 +348,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/noge/</loc>
     <lastmod>2019-06-29T20:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/yokohama/</loc>
     <lastmod>2019-06-29T20:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -346,7 +369,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/typhoon/</loc>
     <lastmod>2019-06-28T18:15:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -359,7 +383,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/bear-grylls/</loc>
     <lastmod>2019-06-27T19:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -379,7 +404,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/zozo/</loc>
     <lastmod>2019-06-25T18:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -399,19 +425,22 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/anime/</loc>
     <lastmod>2019-06-23T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/comic/</loc>
     <lastmod>2019-06-23T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/one-punch-man/</loc>
     <lastmod>2019-06-23T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -424,7 +453,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/ramen/</loc>
     <lastmod>2019-06-22T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -458,7 +488,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/eel/</loc>
     <lastmod>2019-06-16T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -471,13 +502,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/home/</loc>
     <lastmod>2019-06-15T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/ise-city/</loc>
     <lastmod>2019-06-15T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -490,7 +523,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/aws/</loc>
     <lastmod>2019-06-14T09:47:54+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -510,13 +544,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/chainer/</loc>
     <lastmod>2019-06-12T09:44:58+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/deepracer/</loc>
     <lastmod>2019-06-12T09:44:58+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -529,7 +565,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/bufferin/</loc>
     <lastmod>2019-06-11T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -542,13 +579,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/friends/</loc>
     <lastmod>2019-06-10T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/netflix/</loc>
     <lastmod>2019-06-10T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -568,7 +607,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/surfing/</loc>
     <lastmod>2019-06-08T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -581,13 +621,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/master-keaton/</loc>
     <lastmod>2019-06-07T23:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/master-of-life/</loc>
     <lastmod>2019-06-07T23:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -614,19 +656,22 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/programming/</loc>
     <lastmod>2019-06-02T19:32:23+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/python/</loc>
     <lastmod>2019-06-02T19:32:23+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/udemy/</loc>
     <lastmod>2019-06-02T19:32:23+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -639,7 +684,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/run/</loc>
     <lastmod>2019-06-01T19:14:13+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -652,13 +698,15 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/ml/</loc>
     <lastmod>2019-05-30T18:10:54+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/rl/</loc>
     <lastmod>2019-05-30T18:10:54+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -678,7 +726,8 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/ted/</loc>
     <lastmod>2019-05-29T07:48:39+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -691,25 +740,29 @@
   <url>
     <loc>https://naomori.github.io/journal/tags/afternoon-tea/</loc>
     <lastmod>2019-04-18T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/english-breakfast/</loc>
     <lastmod>2019-04-18T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/honeymoon/</loc>
     <lastmod>2019-04-18T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/london/</loc>
     <lastmod>2019-04-18T22:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -735,7 +788,8 @@
   
   <url>
     <loc>https://naomori.github.io/journal/categories/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
