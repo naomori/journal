@@ -6,10 +6,19 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Aug 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>game</title>
+      <link>https://naomori.github.io/journal/tags/game/</link>
+      <pubDate>Sun, 25 Aug 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/game/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>japanese cuisine</title>
@@ -273,7 +282,7 @@
     </item>
     
     <item>
-      <title>Surfing</title>
+      <title>surfing</title>
       <link>https://naomori.github.io/journal/tags/surfing/</link>
       <pubDate>Sat, 08 Jun 2019 22:00:00 +0900</pubDate>
       
