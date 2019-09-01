@@ -6,10 +6,19 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 20:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>running</title>
+      <link>https://naomori.github.io/journal/tags/running/</link>
+      <pubDate>Sun, 01 Sep 2019 20:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/running/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>game</title>
@@ -116,15 +125,6 @@
       <pubDate>Mon, 01 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/enoshima/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>running</title>
-      <link>https://naomori.github.io/journal/tags/running/</link>
-      <pubDate>Mon, 01 Jul 2019 22:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/running/</guid>
       <description></description>
     </item>
     

@@ -3,21 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2019-08-30-homework/</loc>
-    <lastmod>2019-08-30T18:00:00+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2019-09-01/</loc>
+    <lastmod>2019-09-01T20:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2019-08-30T18:00:00+09:00</lastmod>
+    <lastmod>2019-09-01T20:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-09-01T20:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/running/</loc>
+    <lastmod>2019-09-01T20:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2019-09-01T20:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2019-08-30-homework/</loc>
     <lastmod>2019-08-30T18:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -39,13 +60,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/tags/game/</loc>
-    <lastmod>2019-08-25T22:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
     <lastmod>2019-08-25T22:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -368,13 +382,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/tags/enoshima/</loc>
-    <lastmod>2019-07-01T22:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/running/</loc>
     <lastmod>2019-07-01T22:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
