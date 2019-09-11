@@ -6,10 +6,30 @@
     <description>Recent content in Posts on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 20:45:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 17:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-09-11: Homework</title>
+      <link>https://naomori.github.io/journal/posts/2019-09-11-homework/</link>
+      <pubDate>Wed, 11 Sep 2019 17:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-09-11-homework/</guid>
+      <description>Checkpoint Units 1-3 5. What do you think?  What&amp;rsquo;s the tallest building in this city?  Yokohama Landmark Tower is the tallest.  What&amp;rsquo;s the nicest park around here?  I have no idea about the nicest, because I&amp;rsquo;ve never been to a park around here.  Where&amp;rsquo;s the best place to sit and enjoy the view?  The restaurant in Yokohama Landmark Tower is the best. Because it has a magnificent night view.</description>
+    </item>
+    
+    <item>
+      <title>2019-09-10: WFM</title>
+      <link>https://naomori.github.io/journal/posts/2019-09-10/</link>
+      <pubDate>Tue, 10 Sep 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-09-10/</guid>
+      <description>I worked from home last Friday and yesterday, and I work at the office today, so I came to the office for the first time in 4 days today.
+The reason why I came to the office is to access the server with GPU in my company. I want to use it to learn Deep Learning. There is no other reason.
+Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</description>
+    </item>
     
     <item>
       <title>2019-09-09: WFM due to a typhoon</title>
