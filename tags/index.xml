@@ -6,10 +6,19 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 16:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>surfin</title>
+      <link>https://naomori.github.io/journal/tags/surfin/</link>
+      <pubDate>Sat, 09 Nov 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/surfin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>boxing</title>
@@ -224,15 +233,6 @@
       <pubDate>Mon, 01 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/enoshima/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>surfin</title>
-      <link>https://naomori.github.io/journal/tags/surfin/</link>
-      <pubDate>Sun, 30 Jun 2019 22:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/surfin/</guid>
       <description></description>
     </item>
     
