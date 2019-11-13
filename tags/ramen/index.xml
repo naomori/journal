@@ -6,10 +6,20 @@
     <description>Recent content in ramen on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2019 23:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-11-12: the presentation</title>
+      <link>https://naomori.github.io/journal/posts/2019-11-12/</link>
+      <pubDate>Tue, 12 Nov 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-11-12/</guid>
+      <description>I have teamed up with three others for three months to tackle the training exercise about Machine Learning. Today, I went to Osaka to give the presentation about its results. I think that it was successful because we could answer some questions and the audience responded well. I submit the report and the source codes in a month, the training will be completed.
+However, I must use what I learned in the training for my work.</description>
+    </item>
     
     <item>
       <title>2019-08-22: A one-day business trip to Osaka</title>
