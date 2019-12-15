@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2019-12-15/</loc>
+    <lastmod>2019-12-15T20:57:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2019-12-15T20:57:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-12-15T20:57:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-15-homework/</loc>
     <lastmod>2019-12-15T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,20 +32,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/tags/homework/</loc>
-    <lastmod>2019-12-15T12:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2019-12-15T12:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/posts/</loc>
     <lastmod>2019-12-15T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
