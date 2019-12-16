@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2019-12-16/</loc>
+    <lastmod>2019-12-16T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2019-12-16T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-12-16T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/private-life/</loc>
+    <lastmod>2019-12-16T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2019-12-16T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-15/</loc>
     <lastmod>2019-12-15T20:57:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,14 +45,14 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/</loc>
+    <loc>https://naomori.github.io/journal/tags/common-vocabulary/</loc>
     <lastmod>2019-12-15T20:57:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/</loc>
+    <loc>https://naomori.github.io/journal/tags/review/</loc>
     <lastmod>2019-12-15T20:57:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,21 +73,7 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
-    <lastmod>2019-12-15T12:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-13-ts3-unit6-d/</loc>
-    <lastmod>2019-12-13T18:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/private-life/</loc>
     <lastmod>2019-12-13T18:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -74,13 +95,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-13/</loc>
-    <lastmod>2019-12-13T13:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/review/</loc>
     <lastmod>2019-12-13T13:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -109,6 +123,34 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-10/</loc>
+    <lastmod>2019-12-10T18:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/environment/</loc>
+    <lastmod>2019-12-10T18:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/nature/</loc>
+    <lastmod>2019-12-10T18:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/people/</loc>
+    <lastmod>2019-12-10T18:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/public-life/</loc>
     <lastmod>2019-12-10T18:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
