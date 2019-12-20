@@ -6,10 +6,20 @@
     <description>Recent content in Posts on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 19:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 18:30:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-12-20: The first task in the new team</title>
+      <link>https://naomori.github.io/journal/posts/2019-12-20/</link>
+      <pubDate>Fri, 20 Dec 2019 18:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-12-20/</guid>
+      <description>Today, I worked for the Cloud development team for the first time. The task what I did was connecting PlayStation 4 controller with Raspberry Pi 4 Model B, and confirm the buttons which you pressed on the controller. It was so easy, but I was pleased with helping them.
+I&amp;rsquo;ve got to make up my mind what I should do in the Cloud development team. I&amp;rsquo;m thinking about building the development and operating environment of Machine-Learning with AWS and Jetson Nano.</description>
+    </item>
     
     <item>
       <title>2019-12-19: TS3 Unit6 FreeTalk</title>
