@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DeepLearning on naomori&#39;s Diary</title>
@@ -17,8 +17,8 @@
       <pubDate>Thu, 11 Jul 2019 19:15:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-11/</guid>
-      <description>I&amp;rsquo;ve been studying a development environment for AI(ML/DL). I haven&amp;rsquo;t studied AI itself yet. Despite that, there are too many things I don&amp;rsquo;t know and I have a lot to learn.
-It feels so good to know what I didn&amp;rsquo;t know. There are many such moments since I started studying AI.
+      <description>I&#39;ve been studying a development environment for AI(ML/DL). I haven&#39;t studied AI itself yet. Despite that, there are too many things I don&#39;t know and I have a lot to learn.
+It feels so good to know what I didn&#39;t know. There are many such moments since I started studying AI.
 It feels so good to try new things at any age.</description>
     </item>
     
@@ -28,8 +28,8 @@ It feels so good to try new things at any age.</description>
       <pubDate>Tue, 09 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-09/</guid>
-      <description>It held a first meeting of my new task, deep learning for Embedded device. As a first milestone, I&amp;rsquo;m going to build a deep learning development environment on NVIDIA&amp;rsquo;s Jetson TX2 development kit.
-And I&amp;rsquo;m going to participate in Deep Learning training. It&amp;rsquo;s interesting to try new technique. But it&amp;rsquo;s not easy to learn new technique. I&amp;rsquo;ll do my best.</description>
+      <description>It held a first meeting of my new task, deep learning for Embedded device. As a first milestone, I&#39;m going to build a deep learning development environment on NVIDIA&#39;s Jetson TX2 development kit.
+And I&#39;m going to participate in Deep Learning training. It&#39;s interesting to try new technique. But it&#39;s not easy to learn new technique. I&#39;ll do my best.</description>
     </item>
     
   </channel>

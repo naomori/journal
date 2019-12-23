@@ -1,23 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2019-12-20/</loc>
-    <lastmod>2019-12-20T18:30:00+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2019-12-23-ts3-unit6-d-p61/</loc>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2019-12-20T18:30:00+09:00</lastmod>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/preparation/</loc>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/private-life/</loc>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/touchstone-3/</loc>
+    <lastmod>2019-12-23T17:30:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2019-12-21/</loc>
+    <lastmod>2019-12-21T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/review/</loc>
+    <lastmod>2019-12-21T22:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2019-12-20/</loc>
     <lastmod>2019-12-20T18:30:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -31,21 +80,7 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
-    <lastmod>2019-12-20T18:30:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-19-ts3-unit6-freetalk/</loc>
-    <lastmod>2019-12-19T19:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/preparation/</loc>
     <lastmod>2019-12-19T19:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,13 +101,6 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/private-life/</loc>
-    <lastmod>2019-12-16T22:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/posts/2019-12-15/</loc>
     <lastmod>2019-12-15T20:57:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -81,13 +109,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/tags/common-vocabulary/</loc>
-    <lastmod>2019-12-15T20:57:23+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/review/</loc>
     <lastmod>2019-12-15T20:57:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -116,13 +137,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/tags/summarize/</loc>
-    <lastmod>2019-12-13T18:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/touchstone-3/</loc>
     <lastmod>2019-12-13T18:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

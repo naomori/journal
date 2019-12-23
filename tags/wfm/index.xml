@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wfm on naomori&#39;s Diary</title>
@@ -19,7 +19,7 @@
       <guid>https://naomori.github.io/journal/posts/2019-09-10/</guid>
       <description>I worked from home last Friday and yesterday, and I work at the office today, so I came to the office for the first time in 4 days today.
 The reason why I came to the office is to access the server with GPU in my company. I want to use it to learn Deep Learning. There is no other reason.
-Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</description>
+Thus, if I don&#39;t use it, I don&#39;t have to go to the office.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</
       <pubDate>Mon, 09 Sep 2019 20:45:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-09/</guid>
-      <description>Typhoon Faxai (Typhoon No.15) came in this morning. It was heavy rain and the wind was blowing hard. All train was stopped until 8 o&amp;rsquo;clock, so I decided to work from home today. In the Kanto region, there were restrictions on the number of visitors to the stations, and it seemed very crowded.</description>
+      <description>Typhoon Faxai (Typhoon No.15) came in this morning. It was heavy rain and the wind was blowing hard. All train was stopped until 8 o&#39;clock, so I decided to work from home today. In the Kanto region, there were restrictions on the number of visitors to the stations, and it seemed very crowded.</description>
     </item>
     
   </channel>

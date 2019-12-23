@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>naomori&#39;s Diary</title>
@@ -6,10 +6,29 @@
     <description>Recent content on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 18:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 17:30:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-12-23: Touchstone-3 Unit-6 Lesson.D page.61</title>
+      <link>https://naomori.github.io/journal/posts/2019-12-23-ts3-unit6-d-p61/</link>
+      <pubDate>Mon, 23 Dec 2019 17:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-12-23-ts3-unit6-d-p61/</guid>
+      <description>Touchstone-3 Unit-6: Managing life Lesson D: Less is more 1.C. Replace the underlined words in each question with the correct form of an expression from the blog. Then ask and answer the questions with a partner.  Have you ever done something to fool played a trick onsomeone? How did it turn out? What do you do if you&#39;re not moving forward on making progress onan assignment. Do you often have your attention interrupted by get distracted byemail or phone calls?</description>
+    </item>
+    
+    <item>
+      <title>2019-12-21: Review of the last lesson</title>
+      <link>https://naomori.github.io/journal/posts/2019-12-21/</link>
+      <pubDate>Sat, 21 Dec 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-12-21/</guid>
+      <description>At the last lesson, I practiced Unit.6 Free talk again. And I read the blog and summarized it.
+At the previous lesson, I couldn&#39;t keep discussing about a community event. This time I did. I was relieved to be able to do that. I was a bit nervous before the last lesson. But I did and I got a bit confidence about English conversation.</description>
+    </item>
     
     <item>
       <title>2019-12-20: The first task in the new team</title>
@@ -18,7 +37,7 @@
       
       <guid>https://naomori.github.io/journal/posts/2019-12-20/</guid>
       <description>Today, I worked for the Cloud development team for the first time. The task what I did was connecting PlayStation 4 controller with Raspberry Pi 4 Model B, and confirm the buttons which you pressed on the controller. It was so easy, but I was pleased with helping them.
-I&amp;rsquo;ve got to make up my mind what I should do in the Cloud development team. I&amp;rsquo;m thinking about building the development and operating environment of Machine-Learning with AWS and Jetson Nano.</description>
+I&#39;ve got to make up my mind what I should do in the Cloud development team. I&#39;m thinking about building the development and operating environment of Machine-Learning with AWS and Jetson Nano.</description>
     </item>
     
     <item>
@@ -27,8 +46,8 @@ I&amp;rsquo;ve got to make up my mind what I should do in the Cloud development 
       <pubDate>Thu, 19 Dec 2019 19:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-19-ts3-unit6-freetalk/</guid>
-      <description>Today&amp;rsquo;s homework. At the last lesson, I couldn&amp;rsquo;t talk smoothly about the community event. So that It&amp;rsquo;s my homework.
-Who&amp;rsquo;s going to do what? 1. When is the event going to be? Where? What time? We&amp;rsquo;d better hold the event during summer vacation. Because adults can take day-off easily.
+      <description>Today&#39;s homework. At the last lesson, I couldn&#39;t talk smoothly about the community event. So that It&#39;s my homework.
+Who&#39;s going to do what? 1. When is the event going to be? Where? What time? We&#39;d better hold the event during summer vacation. Because adults can take day-off easily.
 We might want to hold the event from 5pm to 8pm. Because children had better sleep early, not staying up late at night.</description>
     </item>
     
@@ -38,8 +57,8 @@ We might want to hold the event from 5pm to 8pm. Because children had better sle
       <pubDate>Tue, 17 Dec 2019 08:30:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-17/</guid>
-      <description>I had a meeting about my new task yesterday. We talked about my wish, my skills and a new task of a Cloud Development team. We decided that I join the Cloud Development team temporary. For a while, I&amp;rsquo;ll work at the team and we&amp;rsquo;ll decide that I join the team officially.
-I felt that the boss of the team is nice guy and the team members too, it&amp;rsquo;s a good team.</description>
+      <description>I had a meeting about my new task yesterday. We talked about my wish, my skills and a new task of a Cloud Development team. We decided that I join the Cloud Development team temporary. For a while, I&#39;ll work at the team and we&#39;ll decide that I join the team officially.
+I felt that the boss of the team is nice guy and the team members too, it&#39;s a good team.</description>
     </item>
     
     <item>
@@ -48,7 +67,7 @@ I felt that the boss of the team is nice guy and the team members too, it&amp;rs
       <pubDate>Mon, 16 Dec 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-16/</guid>
-      <description>Last Saturday, I went to a dental clinic, not for cleaning. It&amp;rsquo;s for making mouthpiece. I sometimes grind my teeth while sleeping. It&amp;rsquo;s for preventing from that. Cathy said that in Philippines we slap the person who grinds teeth in a sleep. Oh, my gosh. I won&amp;rsquo;t tell that to my wife.
+      <description>Last Saturday, I went to a dental clinic, not for cleaning. It&#39;s for making mouthpiece. I sometimes grind my teeth while sleeping. It&#39;s for preventing from that. Cathy said that in Philippines we slap the person who grinds teeth in a sleep. Oh, my gosh. I won&#39;t tell that to my wife.
 And I went to a ophthalmic clinic for the first time. I have never been to a ophthalmic clinic, because I have good eyes.</description>
     </item>
     
@@ -58,7 +77,7 @@ And I went to a ophthalmic clinic for the first time. I have never been to a oph
       <pubDate>Sun, 15 Dec 2019 20:57:23 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-15/</guid>
-      <description>Today&amp;rsquo;s English lesson, I practiced phone conversation, and meeting conversation about a community event. I tried that, however, I couldn&amp;rsquo;t do well at all. I think, it&amp;rsquo;s difficult for me to build my opinion and explain it in English at the same time. I do think in Japanese, and translate it into English. So, I can&amp;rsquo;t respond quickly in English about a theme which I&amp;rsquo;ve never think about. I&amp;rsquo;ve read books about how to study English before.</description>
+      <description>Today&#39;s English lesson, I practiced phone conversation, and meeting conversation about a community event. I tried that, however, I couldn&#39;t do well at all. I think, it&#39;s difficult for me to build my opinion and explain it in English at the same time. I do think in Japanese, and translate it into English. So, I can&#39;t respond quickly in English about a theme which I&#39;ve never think about. I&#39;ve read books about how to study English before.</description>
     </item>
     
     <item>
@@ -67,9 +86,9 @@ And I went to a ophthalmic clinic for the first time. I have never been to a oph
       <pubDate>Sun, 15 Dec 2019 12:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-15-homework/</guid>
-      <description>I have my homework about role-play phone conversations. My teacher, Cathy said that I&amp;rsquo;ve got to practice phone conversations by next lesson. At the next lesson, we&amp;rsquo;ve got to have some role-play phone conversations, so that I have to think about some situations.
-And, I&amp;rsquo;ve got to use phrases below.
- I&amp;rsquo;d better go. I&amp;rsquo;ve got to get going. I&amp;rsquo;m going to have to run. Can I call you back?</description>
+      <description>I have my homework about role-play phone conversations. My teacher, Cathy said that I&#39;ve got to practice phone conversations by next lesson. At the next lesson, we&#39;ve got to have some role-play phone conversations, so that I have to think about some situations.
+And, I&#39;ve got to use phrases below.
+ I&#39;d better go. I&#39;ve got to get going. I&#39;m going to have to run. Can I call you back? I&#39;ll call you later.</description>
     </item>
     
     <item>
@@ -79,7 +98,7 @@ And, I&amp;rsquo;ve got to use phrases below.
       
       <guid>https://naomori.github.io/journal/posts/2019-12-13-ts3-unit6-d/</guid>
       <description>Touchstone-3 Unit-6: Managing life Lesson D: Less is more 1. Reading A. Do you ever multitask? What kinds of things do you do at the same time? Is multitasking a good thing to do? About 20 years ago, when I was at network operation team in the previous company, I sometimes did multitask.
-When I was in a network trouble, I&amp;rsquo;ve done multitask. It was calling customer, solving the problems, writing the report, asking my colleague to help me by a chat tool, and explaining that to my boss at the same time.</description>
+When I was in a network trouble, I&#39;ve done multitask. It was calling customer, solving the problems, writing the report, asking my colleague to help me by a chat tool, and explaining that to my boss at the same time.</description>
     </item>
     
     <item>
@@ -88,9 +107,9 @@ When I was in a network trouble, I&amp;rsquo;ve done multitask. It was calling c
       <pubDate>Fri, 13 Dec 2019 13:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-13/</guid>
-      <description>At the yesterday&amp;rsquo;s lesson.
-I learned about the difference between assertive and aggressive. Assertive means that you are confident and say clearly what you think or what you want without attacking someone. It&amp;rsquo;s polite and positive. Aggressive also means confident and saying clearly, but it has negative meaning like attacking someone.
-And, I learned about phone conversation. When you call someone, first, you&amp;rsquo;ve got to say greetings: Hi, Hello, etc. Second, you have to introduce yourself to the person on the phone.</description>
+      <description>At the yesterday&#39;s lesson.
+I learned about the difference between assertive and aggressive. Assertive means that you are confident and say clearly what you think or what you want without attacking someone. It&#39;s polite and positive. Aggressive also means confident and saying clearly, but it has negative meaning like attacking someone.
+And, I learned about phone conversation. When you call someone, first, you&#39;ve got to say greetings: Hi, Hello, etc. Second, you have to introduce yourself to the person on the phone.</description>
     </item>
     
     <item>
@@ -99,7 +118,7 @@ And, I learned about phone conversation. When you call someone, first, you&amp;r
       <pubDate>Thu, 12 Dec 2019 20:30:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-12/</guid>
-      <description>I&amp;rsquo;m fine, but sleepy today. Because at the last dinner I ate and drank too much, so that I couldn&amp;rsquo;t sleep well last night. I ate Caesar salad, bean sprouts salad, Caprese, Lotus root tempura, lamb stew and Matsumae-Zuke, and drank tasty sake. The sake was brewed by Kumazawa brewery that is located in Fujisawa City. I like the sake of Kumazawa brewery and often buy it.
+      <description>I&#39;m fine, but sleepy today. Because at the last dinner I ate and drank too much, so that I couldn&#39;t sleep well last night. I ate Caesar salad, bean sprouts salad, Caprese, Lotus root tempura, lamb stew and Matsumae-Zuke, and drank tasty sake. The sake was brewed by Kumazawa brewery that is located in Fujisawa City. I like the sake of Kumazawa brewery and often buy it.
 Yesterday, my wife was day-off and she likes cooking, so that she cooked too much.</description>
     </item>
     
@@ -109,7 +128,7 @@ Yesterday, my wife was day-off and she likes cooking, so that she cooked too muc
       <pubDate>Thu, 12 Dec 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-12-ts3-unit6-c/</guid>
-      <description>Touchstone-3 Unit-6: Managing life Lesson C: I&amp;rsquo;ve got to get going. 1. Conversation strategy: Ending phone conversations A. When was the last time you were running late? Why? It was last Saturday, because I was going to be late for a appointment of the dental clinic. My appointment was 10 o&amp;rsquo;clock, but I woke up 9:35. The dental clinic is a 5 minutes away by bicycle. So, I had to get ready to go out in 20 minutes.</description>
+      <description>Touchstone-3 Unit-6: Managing life Lesson C: I&#39;ve got to get going. 1. Conversation strategy: Ending phone conversations A. When was the last time you were running late? Why? It was last Saturday, because I was going to be late for a appointment of the dental clinic. My appointment was 10 o&#39;clock, but I woke up 9:35. The dental clinic is a 5 minutes away by bicycle. So, I had to get ready to go out in 20 minutes.</description>
     </item>
     
     <item>
@@ -118,7 +137,7 @@ Yesterday, my wife was day-off and she likes cooking, so that she cooked too muc
       <pubDate>Wed, 11 Dec 2019 18:08:02 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-11/</guid>
-      <description>I had a meeting with my boss and the boss of my boss. The boss recommended me, &amp;ldquo;You&amp;rsquo;d better find the department which you can do what you want to.&amp;rdquo; &amp;ldquo;Because in this department, there isn&amp;rsquo;t sections where you want to work, I think.&amp;rdquo; And he told me, &amp;ldquo;You can try to work at Cloud development section for a while.&amp;rdquo; &amp;ldquo;While you&amp;rsquo;re working at the section,&amp;rdquo; &amp;ldquo;you&amp;rsquo;re going to have to make up your mind,&amp;rdquo; &amp;ldquo;if you transfer to another department or stay here.</description>
+      <description>I had a meeting with my boss and the boss of my boss. The boss recommended me, &amp;ldquo;You&#39;d better find the department which you can do what you want to.&amp;rdquo; &amp;ldquo;Because in this department, there isn&#39;t sections where you want to work, I think.&amp;rdquo; And he told me, &amp;ldquo;You can try to work at Cloud development section for a while.&amp;rdquo; &amp;ldquo;While you&#39;re working at the section,&amp;rdquo; &amp;ldquo;you&#39;re going to have to make up your mind,&amp;rdquo; &amp;ldquo;if you transfer to another department or stay here.</description>
     </item>
     
     <item>
@@ -127,9 +146,9 @@ Yesterday, my wife was day-off and she likes cooking, so that she cooked too muc
       <pubDate>Tue, 10 Dec 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-10/</guid>
-      <description>At the yesterday&amp;rsquo;s lesson, I learned about reduction of verbs. Native speakers usually use reduction verbs, so that I&amp;rsquo;ve got to learn those.
-And I&amp;rsquo;ll try to categorize vocabularies into each situations, because I can find proper words which express my feeling and thinking. If you categorize vocabularies into each situations in advance, you can find and choose your word easily.
-At first I&amp;rsquo;ll categorized vocabularies into 6 situations like common vocabulary, people, private life, public life, environment and nature.</description>
+      <description>At the yesterday&#39;s lesson, I learned about reduction of verbs. Native speakers usually use reduction verbs, so that I&#39;ve got to learn those.
+And I&#39;ll try to categorize vocabularies into each situations, because I can find proper words which express my feeling and thinking. If you categorize vocabularies into each situations in advance, you can find and choose your word easily.
+At first I&#39;ll categorized vocabularies into 6 situations like common vocabulary, people, private life, public life, environment and nature.</description>
     </item>
     
     <item>
@@ -148,9 +167,9 @@ And I went to Costco, American big supermarket. I bought a lot, and salted herri
       <pubDate>Mon, 09 Dec 2019 09:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-09-ts3-unit6-b/</guid>
-      <description>Touchstone-3 Unit-6: Managing life Lesson B: Problems and solutions 2. Extra practice (p.145) A.1. I&amp;rsquo;d prefer not to move out of my apartment. I&amp;rsquo;d rather not to move out of my apartment.
-A.2. I should really learn to drive. I&amp;rsquo;m really going to have to learn to drive.
-A.3. I should save some money to buy a car. I ought to save some money to buy a car.
+      <description>Touchstone-3 Unit-6: Managing life Lesson B: Problems and solutions  2. Extra practice (p.145) A.1. I&#39;d prefer not to move out of my apartment. I&#39;d rather not to move out of my apartment.
+A.2. I should really learn to drive. I&#39;m really going to have tolearn to drive.
+A.3. I should save some money to buy a car. I ought tosave some money to buy a car.
 A.4. I think you should talk to your boss about a promotion.</description>
     </item>
     
@@ -161,7 +180,7 @@ A.4. I think you should talk to your boss about a promotion.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-06/</guid>
       <description>Yesterday, at the English conversation lesson, I learned about grammar for advisable, necessary, and preferable.
-I couldn&amp;rsquo;t speak smoothly at all. I couldn&amp;rsquo;t find my words and I couldn&amp;rsquo;t say what I wanted to say. The teacher told me to speak a lot and not to overthink, but I don&amp;rsquo;t know what I should say. What do I have to do to speak a lot and smoothly, not to overthink? How do I study English to do that?</description>
+I couldn&#39;t speak smoothly at all. I couldn&#39;t find my words and I couldn&#39;t say what I wanted to say. The teacher told me to speak a lot and not to overthink, but I don&#39;t know what I should say. What do I have to do to speak a lot and smoothly, not to overthink? How do I study English to do that?</description>
     </item>
     
     <item>
@@ -170,8 +189,8 @@ I couldn&amp;rsquo;t speak smoothly at all. I couldn&amp;rsquo;t find my words a
       <pubDate>Thu, 05 Dec 2019 20:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-05/</guid>
-      <description>I&amp;rsquo;m not feeling good very much, today. Because I had a cold the day before yesterday. I had lots of coughs and sneezes. So, yesterday I took a morning day-off and went to a clinic to get a cold medicine. Now, I&amp;rsquo;ve got better, but not perfect.
-The reason which I didn&amp;rsquo;t have a whole day-off yesterday was that I was going to have to have a meeting with a boss of other department related with Machine Learning.</description>
+      <description>I&#39;m not feeling good very much, today. Because I had a cold the day before yesterday. I had lots of coughs and sneezes. So, yesterday I took a morning day-off and went to a clinic to get a cold medicine. Now, I&#39;ve got better, but not perfect.
+The reason which I didn&#39;t have a whole day-off yesterday was that I was going to have to have a meeting with a boss of other department related with Machine Learning.</description>
     </item>
     
     <item>
@@ -180,8 +199,8 @@ The reason which I didn&amp;rsquo;t have a whole day-off yesterday was that I wa
       <pubDate>Thu, 05 Dec 2019 16:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-05-homework/</guid>
-      <description>Unit-6: Managing life Lesson C: I&amp;rsquo;ve got to get going. 1. Conversation strategy: Ending phone conversations A. When was the last time you were running late? Why? It was two months ago. I was running late to go back home. Because I was sometimes running from the station next to the nearest one from home.
-B. Listen. Why can&amp;rsquo;t Ling talk longer on the phone? She&amp;rsquo;s late for a seminar.</description>
+      <description>Unit-6: Managing life Lesson C: I&#39;ve got to get going. 1. Conversation strategy: Ending phone conversations A. When was the last time you were running late? Why? It was two months ago. I was running late to go back home. Because I was sometimes running from the station next to the nearest one from home.
+B. Listen. Why can&#39;t Ling talk longer on the phone? She&#39;s late for a seminar.</description>
     </item>
     
     <item>
@@ -190,8 +209,8 @@ B. Listen. Why can&amp;rsquo;t Ling talk longer on the phone? She&amp;rsquo;s la
       <pubDate>Wed, 04 Dec 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-12-04/</guid>
-      <description>Today, I didn&amp;rsquo;t feel good when I woke this morning. So, I took morning day-off and went to a clinic. The doctor gave me a medicine for cold.
-I wanted to take a day-off today, but I was going to have to have a meeting with a boss of new department. The meeting wasn&amp;rsquo;t what I expected. He just introduced his department. I expected to talk about my task and its schedule with the boss.</description>
+      <description>Today, I didn&#39;t feel good when I woke this morning. So, I took morning day-off and went to a clinic. The doctor gave me a medicine for cold.
+I wanted to take a day-off today, but I was going to have to have a meeting with a boss of new department. The meeting wasn&#39;t what I expected. He just introduced his department. I expected to talk about my task and its schedule with the boss.</description>
     </item>
     
     <item>
@@ -201,7 +220,7 @@ I wanted to take a day-off today, but I was going to have to have a meeting with
       
       <guid>https://naomori.github.io/journal/posts/2019-12-03/</guid>
       <description>At the last lesson, I learned problems and solutions, and I remembered some vocabularies. For example, do the math. You use &amp;ldquo;do the math&amp;rdquo;, when you do easy addition or subtraction. On the other hand, you use &amp;ldquo;calculate&amp;rdquo;, when you use a numerical expression.
-And newly wed. It&amp;rsquo;s me. It means a person who got married recently. I told my teacher that I&amp;rsquo;ve got married this March and when and where I and my wife met for the first time, so she said to me, &amp;ldquo;You&amp;rsquo;re a newly wed!</description>
+And newly wed. It&#39;s me. It means a person who got married recently. I told my teacher that I&#39;ve got married this March and when and where I and my wife met for the first time, so she said to me, &amp;ldquo;You&#39;re a newly wed!</description>
     </item>
     
     <item>
@@ -230,7 +249,7 @@ Anyway, we enjoy Spanish meals, wines, and talking. It was the year-end gatherin
       
       <guid>https://naomori.github.io/journal/posts/2019-11-29/</guid>
       <description>At the yesterday lesson, I learned making plan and the difference between &amp;ldquo;will&amp;rdquo; and &amp;ldquo;be going to&amp;rdquo;. I use &amp;ldquo;will&amp;rdquo; when I decided to do something while speaking, and I use &amp;ldquo;be going to&amp;rdquo; when I say something that I decided before.
-Today, I&amp;rsquo;m sleepy, because I had many coughs last night. I&amp;rsquo;ve had taken some cold medicines, but it doesn&amp;rsquo;t work. I need a medicine stopping coughs.
+Today, I&#39;m sleepy, because I had many coughs last night. I&#39;ve had taken some cold medicines, but it doesn&#39;t work. I need a medicine stopping coughs.
 By the way, I had a explanation for studying abroad yesterday.</description>
     </item>
     
@@ -241,7 +260,7 @@ By the way, I had a explanation for studying abroad yesterday.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-28-homework/</guid>
       <description>At the last lesson At the last lesson, I learned collocations related with food, and that long adjective use superlative to represent the opposite meaning, for example, the opposite of &amp;ldquo;most favorite&amp;rdquo; is &amp;ldquo;least favorite&amp;rdquo;. And I learned that the type of banana I usually eat is Cavendish, which has a normal sweetness among bananas.
-Unit-6: Managing life Before you begin &amp;hellip; How good are you at managing your life?</description>
+ Unit-6: Managing life Before you begin &amp;hellip; How good are you at managing your life?</description>
     </item>
     
     <item>
@@ -250,8 +269,8 @@ Unit-6: Managing life Before you begin &amp;hellip; How good are you at managing
       <pubDate>Wed, 27 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-27/</guid>
-      <description>I took a morning day off this Wendesday. I went to dental clinic to have my teeth cleaned. Because the clinic is very popular and I couldn&amp;rsquo;t make an appointment the weekends. Then, I had a anesthesia injection but it was so painful. In the early morning Wendesday, I went to surfin. There were good waves, and less surfers than weekends.
-I&amp;rsquo;ll take a morning day off from now on, sometimes.</description>
+      <description>I took a morning day off this Wendesday. I went to dental clinic to have my teeth cleaned. Because the clinic is very popular and I couldn&#39;t make an appointment the weekends. Then, I had a anesthesia injection but it was so painful. In the early morning Wendesday, I went to surfin. There were good waves, and less surfers than weekends.
+I&#39;ll take a morning day off from now on, sometimes.</description>
     </item>
     
     <item>
@@ -270,7 +289,7 @@ the difference between mochi and dango The difference is the shape of rice which
       <pubDate>Fri, 22 Nov 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-22/</guid>
-      <description>Today, I, my boss and the boss of my boss talked about my reassignment department. In the end, we decided that I would work in a new department as a temp, leaving my position behind in the current department. This is because staff reassignment procedure takes one or two months. I&amp;rsquo;d like to work in a new department as quickly as I can, and also I don&amp;rsquo;t care where my position is.</description>
+      <description>Today, I, my boss and the boss of my boss talked about my reassignment department. In the end, we decided that I would work in a new department as a temp, leaving my position behind in the current department. This is because staff reassignment procedure takes one or two months. I&#39;d like to work in a new department as quickly as I can, and also I don&#39;t care where my position is.</description>
     </item>
     
     <item>
@@ -279,8 +298,8 @@ the difference between mochi and dango The difference is the shape of rice which
       <pubDate>Thu, 21 Nov 2019 19:40:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-21/</guid>
-      <description>I&amp;rsquo;m a little busy this week. Because I&amp;rsquo;m going to move the department. So, I have to make documents for taking over. I&amp;rsquo;s not yet decided when I will be transferred.
-The reason is that my department decided to quit Machine Learning Project that I participate in. I don&amp;rsquo;t know the true reason. But I suppose that because it takes long time to accomplish the goal. I was so disappointed with that, because I&amp;rsquo;m enjoying Machine Learning.</description>
+      <description>I&#39;m a little busy this week. Because I&#39;m going to move the department. So, I have to make documents for taking over. I&#39;s not yet decided when I will be transferred.
+The reason is that my department decided to quit Machine Learning Project that I participate in. I don&#39;t know the true reason. But I suppose that because it takes long time to accomplish the goal. I was so disappointed with that, because I&#39;m enjoying Machine Learning.</description>
     </item>
     
     <item>
@@ -289,8 +308,8 @@ The reason is that my department decided to quit Machine Learning Project that I
       <pubDate>Thu, 21 Nov 2019 10:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-21-homework/</guid>
-      <description>Unit-5: Food choices Lesson D: The world&amp;rsquo;s favorite snacks At the last lesson, what I learned is &amp;hellip; I learned snacks around the world. And I learned where the snacks are popular, how they are cooked, and what they are made from.
-2. Listening and speaking: Snack habits A. Have you tried any of the snack below? Which countries do you think they com from originally? Hummus No, I have not.</description>
+      <description>Unit-5: Food choices Lesson D: The world&#39;s favorite snacks At the last lesson, what I learned is &amp;hellip; I learned snacks around the world. And I learned where the snacks are popular, how they are cooked, and what they are made from.
+ 2. Listening and speaking: Snack habits A. Have you tried any of the snack below? Which countries do you think they com from originally? Hummus No, I have not.</description>
     </item>
     
     <item>
@@ -299,7 +318,7 @@ The reason is that my department decided to quit Machine Learning Project that I
       <pubDate>Fri, 15 Nov 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-15/</guid>
-      <description>It&amp;rsquo;s Friday. I and my wife are going to visit Miyazaki-pref tomorrow. Because we&amp;rsquo;ll hold my father-in-law&amp;rsquo;s birthday party and celebrate his recovery from illness. I&amp;rsquo;ll present trekking shoes for him, I wish he&amp;rsquo;s glad to that.</description>
+      <description>It&#39;s Friday. I and my wife are going to visit Miyazaki-pref tomorrow. Because we&#39;ll hold my father-in-law&#39;s birthday party and celebrate his recovery from illness. I&#39;ll present trekking shoes for him, I wish he&#39;s glad to that.</description>
     </item>
     
     <item>
@@ -308,7 +327,7 @@ The reason is that my department decided to quit Machine Learning Project that I
       <pubDate>Thu, 14 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-14/</guid>
-      <description>My boss suggested to me about my department change. That is because I&amp;rsquo;ve not been fitted this department at all. My major is Internet and TCP/IP network, and I&amp;rsquo;m learning IoT and Machine Learning. Those are almost software.
+      <description>My boss suggested to me about my department change. That is because I&#39;ve not been fitted this department at all. My major is Internet and TCP/IP network, and I&#39;m learning IoT and Machine Learning. Those are almost software.
 Therefore, he said that you should be better to work at other department related with Machine Learning. Fortunately, the boss of my boss previously lead the center that contains the department related with Machine Learning.</description>
     </item>
     
@@ -318,7 +337,7 @@ Therefore, he said that you should be better to work at other department related
       <pubDate>Thu, 14 Nov 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-14-homework/</guid>
-      <description>Lesson D: The world&amp;rsquo;s favorite snacks 1. Reading A. How many different snacks can you think of? Which ones are popular in your country? Make a class list.  Potato chips  Calbee, Koike-ya  Fried chickens  Fami-Chicken(Family-mart), Nana-Chicken(Seven-Eleven), L-Chicken(Lawson), KFC  Steamed buns with filling  a variety of fillings: curry flavored spicy meat, sweet beans, pizza sauce  Croquettes Rice balls Rice crackers Warabi-mochi(bracken-root mochi) Kuzu-mochi(arrowroot mochi) Gohei-mochi(made from uruchi rice)  Gohei-mochi is rice cake with walnut miso.</description>
+      <description>Lesson D: The world&#39;s favorite snacks 1. Reading A. How many different snacks can you think of? Which ones are popular in your country? Make a class list.  Potato chips  Calbee, Koike-ya   Fried chickens  Fami-Chicken(Family-mart), Nana-Chicken(Seven-Eleven), L-Chicken(Lawson), KFC   Steamed buns with filling  a variety of fillings: curry flavored spicy meat, sweet beans, pizza sauce   Croquettes Rice balls Rice crackers Warabi-mochi(bracken-root mochi) Kuzu-mochi(arrowroot mochi) Gohei-mochi(made from uruchi rice)  Gohei-mochi is rice cake with walnut miso.</description>
     </item>
     
     <item>
@@ -327,7 +346,7 @@ Therefore, he said that you should be better to work at other department related
       <pubDate>Wed, 13 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-13/</guid>
-      <description>Today was the peaceful day without any particular change. Yesterday, I went to Osaka to give the presentation for Deep Learning training. There was no work close to the deadline. That&amp;rsquo;s why I organized the documents and source codes that I made during the training.</description>
+      <description>Today was the peaceful day without any particular change. Yesterday, I went to Osaka to give the presentation for Deep Learning training. There was no work close to the deadline. That&#39;s why I organized the documents and source codes that I made during the training.</description>
     </item>
     
     <item>
@@ -346,7 +365,7 @@ However, I must use what I learned in the training for my work.</description>
       <pubDate>Mon, 11 Nov 2019 20:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-11/</guid>
-      <description>Today, I prepared for the tomorrow&amp;rsquo;s presentation. I prepared the experimental result data necessary for the presentation. I have had some troubles of disk full, but I solved those troubles using disks on the other machines. I spent lots of time for that, however, I finished the whole preparation at last.</description>
+      <description>Today, I prepared for the tomorrow&#39;s presentation. I prepared the experimental result data necessary for the presentation. I have had some troubles of disk full, but I solved those troubles using disks on the other machines. I spent lots of time for that, however, I finished the whole preparation at last.</description>
     </item>
     
     <item>
@@ -355,7 +374,7 @@ However, I must use what I learned in the training for my work.</description>
       <pubDate>Sun, 10 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-10/</guid>
-      <description>This morning, I went to surfing at Kugenuma Beach. The wave height was thigh to waist. There were good waves. And of course, I wore my new semi-dry wetsuit. It was really comfortable. I didn&amp;rsquo;t feel cold at all, but rather it was a bit hot and sweaty. I was convinced that it would not be cold even in midwinter.
+      <description>This morning, I went to surfing at Kugenuma Beach. The wave height was thigh to waist. There were good waves. And of course, I wore my new semi-dry wetsuit. It was really comfortable. I didn&#39;t feel cold at all, but rather it was a bit hot and sweaty. I was convinced that it would not be cold even in midwinter.
 In the afternoon, I went to Minato-mirai in Yokohama to buy a birthday present for my father-in-law.</description>
     </item>
     
@@ -365,7 +384,7 @@ In the afternoon, I went to Minato-mirai in Yokohama to buy a birthday present f
       <pubDate>Sat, 09 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-09/</guid>
-      <description>Today&amp;rsquo;s lunch was ramen as shown in the photo. I ate Deluxe Vege Ramen. It had some corns, a boiled eggs flavored with soy sauce and other seasonings, Chinese bamboo shoots, and two slices of roast pork. It was really delicious. I will visit the ramen restaurant again, definitely.
+      <description>Today&#39;s lunch was ramen as shown in the photo. I ate Deluxe Vege Ramen. It had some corns, a boiled eggs flavored with soy sauce and other seasonings, Chinese bamboo shoots, and two slices of roast pork. It was really delicious. I will visit the ramen restaurant again, definitely.
 And then, I and my wife went to Costco at Zama-City. We bought several bottles of sparking wines, some vegetables, lots of meats:Sausages, Pork ribs, chicken wings, chicken breast, minced beef, and shoulder loin beef.</description>
     </item>
     
@@ -375,10 +394,11 @@ And then, I and my wife went to Costco at Zama-City. We bought several bottles o
       <pubDate>Fri, 08 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-08-lesson/</guid>
-      <description>At today&amp;rsquo;s lesson, I learned about conversations about food and drink, and &amp;ldquo;potluck&amp;rdquo; party.
-I got learned about a free talk on today&amp;rsquo;s lesson. But I couldn&amp;rsquo;t respond well.
-Free talk(page.131) Unit 5: Whichever is easier 1. Are you going to go to someone&amp;rsquo;s home? Whose? I&amp;rsquo;m going to go to my friend&amp;rsquo;s home.
-2. What time do you want to arrive? I want to arrive at 5 o&amp;rsquo;clock.</description>
+      <description>At today&#39;s lesson, I learned about conversations about food and drink, and &amp;ldquo;potluck&amp;rdquo; party.
+I got learned about a free talk on today&#39;s lesson. But I couldn&#39;t respond well.
+Free talk(page.131) Unit 5: Whichever is easier 1. Are you going to go to someone&#39;s home? Whose? I&#39;m going to go to my friend&#39;s home.
+2. What time do you want to arrive? I want to arrive at 5 o&#39;clock.
+3. Do you have enough plates?</description>
     </item>
     
     <item>
@@ -387,8 +407,7 @@ Free talk(page.131) Unit 5: Whichever is easier 1. Are you going to go to someon
       <pubDate>Fri, 08 Nov 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-08-homework/</guid>
-      <description>Unit-5: Food choices Lesson C: Whatever you&amp;rsquo;re having 3. Listening and strategies: That sounds good. A. Listen to four conversations about food and drink. 4. drink  Ms: Wow, it&amp;rsquo;s really hot today. Mr: It sure is. Let&amp;rsquo;s make some iced tea, or we could make iced coffee. Ms: Oh, that sounds good. Mr: OK, well. Which would you like, or make some now?
-2. full Mr: Wow, I&amp;rsquo;m really full.</description>
+      <description>Unit-5: Food choices Lesson C: Whatever you&#39;re having 3. Listening and strategies: That sounds good. A. Listen to four conversations about food and drink. 4. drink  Ms: Wow, it&#39;s really hot today. Mr: It sure is. Let&#39;s make some iced tea, or we could make iced coffee. Ms: Oh, that sounds good. Mr: OK, well. Which would you like, or make some now?  2. full  Mr: Wow, I&#39;m really full.</description>
     </item>
     
     <item>
@@ -397,8 +416,8 @@ Free talk(page.131) Unit 5: Whichever is easier 1. Are you going to go to someon
       <pubDate>Thu, 07 Nov 2019 16:30:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-07/</guid>
-      <description>Tonight, the most interesting boxing fight will be held in Japan. It&amp;rsquo;s &amp;ldquo;The Monster versus The Filipino Flash&amp;rdquo;.
-Donaire was the strongest boxer in bantamweight until Inoue&amp;rsquo;s come. There was no boxer to worth to fight with Donaire in bantamweight, so he gained his weight to featherweight to fight with stronger boxers. But, it was too heavy for him in featherweight. He couldn&amp;rsquo;t bring his true strength.
+      <description>Tonight, the most interesting boxing fight will be held in Japan. It&#39;s &amp;ldquo;The Monster versus The Filipino Flash&amp;rdquo;.
+Donaire was the strongest boxer in bantamweight until Inoue&#39;s come. There was no boxer to worth to fight with Donaire in bantamweight, so he gained his weight to featherweight to fight with stronger boxers. But, it was too heavy for him in featherweight. He couldn&#39;t bring his true strength.
 At last, Donaire fights with Inoue tonight.</description>
     </item>
     
@@ -408,8 +427,8 @@ At last, Donaire fights with Inoue tonight.</description>
       <pubDate>Wed, 06 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-06/</guid>
-      <description>I haven&amp;rsquo;t had a good sleep these days. I don&amp;rsquo;t know why, but I want to get some good sleep. I want to enjoy my work, my hobby, and my life. For those, good sleep is essential.
-So, I bought Yakult 1000. Yakult say that it can help me take good sleep and it can relieve stress. I will take it for a while. Even if it doesn&amp;rsquo;t work, it doesn&amp;rsquo;t matter.</description>
+      <description>I haven&#39;t had a good sleep these days. I don&#39;t know why, but I want to get some good sleep. I want to enjoy my work, my hobby, and my life. For those, good sleep is essential.
+So, I bought Yakult 1000. Yakult say that it can help me take good sleep and it can relieve stress. I will take it for a while. Even if it doesn&#39;t work, it doesn&#39;t matter.</description>
     </item>
     
     <item>
@@ -418,7 +437,7 @@ So, I bought Yakult 1000. Yakult say that it can help me take good sleep and it 
       <pubDate>Tue, 05 Nov 2019 19:30:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-05/</guid>
-      <description>Today, I asked my wife to take my bicycle to a cycling shop and have my bicycle attached a basket. My bicycle is an electric bicycle and it has a battery. Yesterday I removed the battery to charge electric power and forget to attach it back. When my wife was busy to prepare her work in this morning, she found that. So she was angry with me about that and she&amp;rsquo;s in a bad mood.</description>
+      <description>Today, I asked my wife to take my bicycle to a cycling shop and have my bicycle attached a basket. My bicycle is an electric bicycle and it has a battery. Yesterday I removed the battery to charge electric power and forget to attach it back. When my wife was busy to prepare her work in this morning, she found that. So she was angry with me about that and she&#39;s in a bad mood.</description>
     </item>
     
     <item>
@@ -428,7 +447,7 @@ So, I bought Yakult 1000. Yakult say that it can help me take good sleep and it 
       
       <guid>https://naomori.github.io/journal/posts/2019-11-04/</guid>
       <description>At the last lesson, I studied how to use too, too much, too many and enough. And I learned letting another person decide and polite refusals. And convenient is a useful word.
-My teacher noticed me that I need to expound answers to produce more sentences and make more sentences with varying patterns. &amp;ldquo;Speak more, or you can&amp;rsquo;t improve. You speak more, you can get occasions to improve.&amp;rdquo;
+My teacher noticed me that I need to expound answers to produce more sentences and make more sentences with varying patterns. &amp;ldquo;Speak more, or you can&#39;t improve. You speak more, you can get occasions to improve.&amp;rdquo;
 Yes, I will.</description>
     </item>
     
@@ -438,7 +457,7 @@ Yes, I will.</description>
       <pubDate>Sun, 03 Nov 2019 13:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-03-homework/</guid>
-      <description>Unit-5: Food choices Lesson C: Whatever you&amp;rsquo;re having 1. Conversation strategy: Letting another person decide A. What drinks or snacks do you offer visitors to your home? I offer visitors a cup of tea or coffee.
+      <description>Unit-5: Food choices Lesson C: Whatever you&#39;re having 1. Conversation strategy: Letting another person decide A. What drinks or snacks do you offer visitors to your home? I offer visitors a cup of tea or coffee.
 B. What snacks does Laura offer Kayla? What drinks does she offer? What snacks? She offers some cheese in the fridge and a box of crackers.
 What drinks? She offers some tea or coffee.</description>
     </item>
@@ -449,7 +468,7 @@ What drinks? She offers some tea or coffee.</description>
       <pubDate>Sat, 02 Nov 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-02/</guid>
-      <description>Today, I had my teeth deep cleaned at a dental clinic near my house. It was for the first time in 5 or 6 years, because it&amp;rsquo;s little bit painful and a bother. I don&amp;rsquo;t like anesthetic injections into the gums. It doesn&amp;rsquo;t hurt so much because the surface anesthesia is done first. However, I don&amp;rsquo;t like teeth cleaning because it spends time. Normally it spends 4 weeks or 6 weeks.</description>
+      <description>Today, I had my teeth deep cleaned at a dental clinic near my house. It was for the first time in 5 or 6 years, because it&#39;s little bit painful and a bother. I don&#39;t like anesthetic injections into the gums. It doesn&#39;t hurt so much because the surface anesthesia is done first. However, I don&#39;t like teeth cleaning because it spends time. Normally it spends 4 weeks or 6 weeks.</description>
     </item>
     
     <item>
@@ -459,7 +478,8 @@ What drinks? She offers some tea or coffee.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-11-01/</guid>
       <description>In the previous lesson, I studied English words about various cooking methods.
-The differences among grill, barbeque, bake, and roast are below. * grill - to cook food using very strong heat directly above and below it. * barbeque - to cook food on a metal frame over a charcoal fire outdoors * roast - to cook food by prolonged exposure to heat in an oven * bake - to cook potatoes, cakes or breads by dry heat in an oven</description>
+The differences among grill, barbeque, bake, and roast are below.
+ grill  to cook food using very strong heat directly above and below it.   barbeque  to cook food on a metal frame over a charcoal fire outdoors   roast  to cook food by prolonged exposure to heat in an oven   bake  to cook potatoes, cakes or breads by dry heat in an oven    </description>
     </item>
     
     <item>
@@ -468,8 +488,7 @@ The differences among grill, barbeque, bake, and roast are below. * grill - to c
       <pubDate>Thu, 31 Oct 2019 13:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-31-homework/</guid>
-      <description>Unit-5: Food choices Lesson B: A question of taste 1. Building vocabulary A. Have you eaten any of these things recently? Which do you like best?  1. (stir-)fried noodles, 2. grilled shrimp, 3. steamed vegetables, 4. boiled eggs, 5. baked potatoes 6. pickled cabbage, 7. roast lamb, 8. barbecued beef, 9. raw fish, 10. smoked fish  I have eaten boiled eggs, baked potatoes, and raw fish.
-Recently I&amp;rsquo;ve eaten a sandwich which my wife cooked, it contained some slices of boiled eggs and grilled tandoori chicken, some lettuce and pickled onion.</description>
+      <description>Unit-5: Food choices Lesson B: A question of taste 1. Building vocabulary A. Have you eaten any of these things recently? Which do you like best?    (stir-)fried noodles, 2. grilled shrimp, 3. steamed vegetables, 4. boiled eggs, 5. baked potatoes    pickled cabbage, 7. roast lamb, 8. barbecued beef, 9. raw fish, 10. smoked fish    I have eaten boiled eggs, baked potatoes, and raw fish.</description>
     </item>
     
     <item>
@@ -478,9 +497,9 @@ Recently I&amp;rsquo;ve eaten a sandwich which my wife cooked, it contained some
       <pubDate>Sun, 27 Oct 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-27/</guid>
-      <description>Today, I woke up at noon and ate fried rice with eggs and takana for lunch. Takana is make from pickled mustard leaf. It&amp;rsquo;s crunchy and spicy, I like it.
-In the afternoon, I went surfing. There was small waves, but it&amp;rsquo;s high enough to enjoy surfing.
-In the evening, I went to Tokyo to participate in a study session for Deep Learning. I&amp;rsquo;m working on image analysis using deep learning at work, but I&amp;rsquo;m in trouble because I don&amp;rsquo;t have any colleagues who are skilled in deep learning.</description>
+      <description>Today, I woke up at noon and ate fried rice with eggs and takana for lunch. Takana is make from pickled mustard leaf. It&#39;s crunchy and spicy, I like it.
+In the afternoon, I went surfing. There was small waves, but it&#39;s high enough to enjoy surfing.
+In the evening, I went to Tokyo to participate in a study session for Deep Learning. I&#39;m working on image analysis using deep learning at work, but I&#39;m in trouble because I don&#39;t have any colleagues who are skilled in deep learning.</description>
     </item>
     
     <item>
@@ -489,7 +508,7 @@ In the evening, I went to Tokyo to participate in a study session for Deep Learn
       <pubDate>Sat, 26 Oct 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-26/</guid>
-      <description>I, my wife and our friends went to the Gyoza restaurant in Kameari, Tokyo. The restaurant are introduced many times in TV shows, and very famous in Chiba. I&amp;rsquo;ve wanted to go there since two years ago and at last I went there today.
+      <description>I, my wife and our friends went to the Gyoza restaurant in Kameari, Tokyo. The restaurant are introduced many times in TV shows, and very famous in Chiba. I&#39;ve wanted to go there since two years ago and at last I went there today.
 The gyoza restaurant is named &amp;ldquo;White gyoza&amp;rdquo;. This is because Mr.Paku started the restaurant, his name means &amp;ldquo;White&amp;rdquo; in Japanese.
 The gyoza dumpling is famous for their cooking methods.</description>
     </item>
@@ -502,7 +521,7 @@ The gyoza dumpling is famous for their cooking methods.</description>
       <guid>https://naomori.github.io/journal/posts/2019-10-25/</guid>
       <description>In the previous lesson, I studied about healthy food and told what is in my fridge. And I gave my opinions for some beliefs about food.
 One of beliefs what I heard of is that eating a bowl of salad at the beginning of a meal can give you a feeling of fullness and prevent overeating. And also chewing 30 times per mouth can prevent overeating.
-In these days, I always overeat at dinner, so from now on I&amp;rsquo;ll do those methods.</description>
+In these days, I always overeat at dinner, so from now on I&#39;ll do those methods.</description>
     </item>
     
     <item>
@@ -521,7 +540,7 @@ Do you buy groceries online? at a supermarket? I usually buy groceries at a supe
       <pubDate>Sat, 19 Oct 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-19/</guid>
-      <description>I met my friend who lives in England. She came to Japan last Monday, I&amp;rsquo;m glad that there was no typhoon on the day she arrived in Japan.
+      <description>I met my friend who lives in England. She came to Japan last Monday, I&#39;m glad that there was no typhoon on the day she arrived in Japan.
 My wife had lived in England for 9 years. My wife graduated from a British university and got a job. My wife and she met at the workplace, they were working together.
 We went to a Yakiniku restaurant in Fujisawa. We ate, drank, and talk much together.</description>
     </item>
@@ -534,7 +553,7 @@ We went to a Yakiniku restaurant in Fujisawa. We ate, drank, and talk much toget
       <guid>https://naomori.github.io/journal/posts/2019-10-18/</guid>
       <description>In yesterday English lesson, I had my teacher check my blog again and reviewed Unit-4, and then finished it. And I started to learn Unit-5 and found that my teacher eats crisps too much.
 I learned the following vocabularies.
- philanthropist  I told my teacher about my uncle who is keen on volunteering and then my teacher called him a philanthropist.  divorce and annulment  I didn&amp;rsquo;t know the word annulment, and so I can&amp;rsquo;t understand the difference between divorce and annulment.</description>
+ philanthropist  I told my teacher about my uncle who is keen on volunteering and then my teacher called him a philanthropist.   divorce and annulment  I didn&#39;t know the word annulment, and so I can&#39;t understand the difference between divorce and annulment.</description>
     </item>
     
     <item>
@@ -544,7 +563,7 @@ I learned the following vocabularies.
       
       <guid>https://naomori.github.io/journal/posts/2019-10-17/</guid>
       <description>The pleasure of summer vacation My family used to go to Nagashima Resort in the summer, when I was a kid. Back then, I was always looking forward to going Nagashima Resort every summer. Both now and then, Nagashima Resort is the biggest amusement park in Kansai region; it has a tremendous pool, various water slides and roller coasters.
-Nowadays, I&amp;rsquo;m not going to an Amusement park. I don&amp;rsquo;t like going crowded places these days because I get tired.</description>
+Nowadays, I&#39;m not going to an Amusement park. I don&#39;t like going crowded places these days because I get tired.</description>
     </item>
     
     <item>
@@ -553,8 +572,8 @@ Nowadays, I&amp;rsquo;m not going to an Amusement park. I don&amp;rsquo;t like g
       <pubDate>Wed, 16 Oct 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-16/</guid>
-      <description>Today, I worked at the office. This week, the progress of my work isn&amp;rsquo;t so good, because what I tried to end this week didn&amp;rsquo;t end. The reason is the lack of understanding machine learning.
-I wanted to start training my machine learning model this week. I cannot start it tomorrow probably. Definitely. It can&amp;rsquo;t be helped. Next week I&amp;rsquo;ll try.
+      <description>Today, I worked at the office. This week, the progress of my work isn&#39;t so good, because what I tried to end this week didn&#39;t end. The reason is the lack of understanding machine learning.
+I wanted to start training my machine learning model this week. I cannot start it tomorrow probably. Definitely. It can&#39;t be helped. Next week I&#39;ll try.
 Last weekend typhoon no.19 came, however, I had no damage.</description>
     </item>
     
@@ -565,7 +584,7 @@ Last weekend typhoon no.19 came, however, I had no damage.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-11-homework/</guid>
       <description>Unit 4: Family life Lesson D: Family activities 1. Reading A. Yes, we did. I and my family used to eat together every dinner. We used to talk about what we did and how we feel. Plus, we used to talk about neighbours, friends, relatives, and TV show, movies, everything.
-B: Why does Barbara think families should eat together more often? Because children who have regular meals with their families feel less stressed, have a healthier weight, get better grades, and are less likely to get into trouble than children from families that don&amp;rsquo;t eat together.</description>
+B: Why does Barbara think families should eat together more often? Because children who have regular meals with their families feel less stressed, have a healthier weight, get better grades, and are less likely to get into trouble than children from families that don&#39;t eat together.</description>
     </item>
     
     <item>
@@ -574,7 +593,7 @@ B: Why does Barbara think families should eat together more often? Because child
       <pubDate>Thu, 10 Oct 2019 17:24:32 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-10/</guid>
-      <description>Points  Rephrase the words and expressions used in the article to your own words and expressions Don&amp;rsquo;t mistake the conclusion Don&amp;rsquo;t claim your own idea  the author points out &amp;hellip; the author feels &amp;hellip;  Ignore examples sentences and modifiers  Procedure  Read whole the article at first  Distinguish between story trunks and branches  Write out the most important claims  They should be at the beginning and end  Write out an important statement of each paragraphs Rephrase them to your own words and expressions  Use &amp;ldquo;&amp;rdquo; when quoting a sentence   Summary of Barbara&amp;rsquo;s Blog  Overview  About taking meals with the family The author feels that families have little time together at mealtimes these days.</description>
+      <description>Points  Rephrase the words and expressions used in the article to your own words and expressions Don&#39;t mistake the conclusion Don&#39;t claim your own idea   the author points out &amp;hellip; the author feels &amp;hellip;  Ignore examples sentences and modifiers  Procedure  Read whole the article at first   Distinguish between story trunks and branches  Write out the most important claims   They should be at the beginning and end  Write out an important statement of each paragraphs Rephrase them to your own words and expressions   Use &amp;quot;&amp;rdquo; when quoting a sentence  Summary of Barbara&#39;s Blog  Overview   About taking meals with the family The author feels that families have little time together at mealtimes these days.</description>
     </item>
     
     <item>
@@ -583,9 +602,9 @@ B: Why does Barbara think families should eat together more often? Because child
       <pubDate>Mon, 07 Oct 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-07-homework/</guid>
-      <description>Unit 4: Family life Lesson C: If you ask me, &amp;hellip; 3. Strategies: In my opinion A. 1. I don&amp;rsquo;t agree with that. You should get married when you want to.
-2. I&amp;rsquo;m not sure if you&amp;rsquo;d better to have lots of friends. You should do what you want.
-3. I&amp;rsquo;m not sure if it&amp;rsquo;s right.
+      <description>Unit 4: Family life Lesson C: If you ask me, &amp;hellip; 3. Strategies: In my opinion A. 1. I don&#39;t agree with that. You should get married when you want to.
+2. I&#39;m not sure if you&#39;d better to have lots of friends. You should do what you want.
+3. I&#39;m not sure if it&#39;s right.
 4. I partly agree with it.
 B. divorce and children I suppose that divorce can be terrible for kids.</description>
     </item>
@@ -598,9 +617,10 @@ B. divorce and children I suppose that divorce can be terrible for kids.</descri
       <guid>https://naomori.github.io/journal/posts/2019-10-04/</guid>
       <description>A new teacher will be in charge of my English class from today. I will have to introduce myself to the new teacher. What should I talk about?
 1. Greeting Good evening.
-2. Your name I&amp;rsquo;m Naoki Morita.
-3. Location I was born and raised in Mie prefecture, but now live in Fujisawa-city. I&amp;rsquo;ve been living in Fuisawa-city for three years.
-4. Position and Company I&amp;rsquo;m a software engineer.</description>
+2. Your name I&#39;m Naoki Morita.
+3. Location I was born and raised in Mie prefecture, but now live in Fujisawa-city. I&#39;ve been living in Fuisawa-city for three years.
+4. Position and Company I&#39;m a software engineer.
+5. Qualifications I majored in information technology at graduate school.</description>
     </item>
     
     <item>
@@ -609,9 +629,10 @@ B. divorce and children I suppose that divorce can be terrible for kids.</descri
       <pubDate>Fri, 04 Oct 2019 12:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-10-04-homework/</guid>
-      <description>Unit 4: Family life Lesson C: If you ask me, &amp;hellip; 2. Strategy plus: Agreeing 1.  It&amp;rsquo;s really bad for kids, when they come home from school to an empty house. Remember when one parent used to stay at home with the kids? Nowadays, both parents are at work. 
-That&amp;rsquo;s true. But a lot of families need two incomes these days.
-2.  A lot of families don&amp;rsquo;t have meals together anymore.</description>
+      <description>Unit 4: Family life Lesson C: If you ask me, &amp;hellip; 2. Strategy plus: Agreeing 1. That&#39;s true. But a lot of families need two incomes these days.
+2. Exactly. Some kids never want to sit down and eat with their families.
+3. Oh, I agree. I mean a lot of kids stay up all night studying for exams.
+4. Definitely. My kids love to spend time with my mother. They say she&#39;s more fun than me.</description>
     </item>
     
     <item>
@@ -621,7 +642,7 @@ That&amp;rsquo;s true. But a lot of families need two incomes these days.
       
       <guid>https://naomori.github.io/journal/posts/2019-09-27-homework/</guid>
       <description>Unit 4: Family life Lesson C: If you ask me, &amp;hellip; 1.D Complete these sentences with expressions from above to give your opinions.
-1. I don&amp;rsquo;t agree that people work longer hours than they used to. Until thirty years ago in Japan, I think that all Japanese used to work really harder than now. My father also used to work harder everyday, even Saturday, sometimes also Sunday. At that age, however, there were hope like that we can get more money, get own car and house, and become happier.</description>
+1. I don&#39;t agree thatpeople work longer hours than they used to. Until thirty years ago in Japan, I think that all Japanese used to work really harder than now. My father also used to work harder everyday, even Saturday, sometimes also Sunday. At that age, however, there were hope like that we can get more money, get own car and house, and become happier.</description>
     </item>
     
     <item>
@@ -630,7 +651,7 @@ That&amp;rsquo;s true. But a lot of families need two incomes these days.
       <pubDate>Wed, 25 Sep 2019 16:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-25-homework/</guid>
-      <description>Unit 4: Family life Lesson B: Family memories 2. Grammar: used to and would  My family used to go to the beach in the summer. We&amp;rsquo;d go almost every weekend. My mother used to make a lunchbox for us when I was in a junior high school and high school. She&amp;rsquo;d make it every weekday. My brother and I used to play football together, when I was in an elementary school.</description>
+      <description>Unit 4: Family life Lesson B: Family memories 2. Grammar: used to and would  My family used to go to the beachin the summer. We&#39;d go almost every weekend. My mother used to make a lunchboxfor us when I was in a junior high school and high school. She&#39;d make it every weekday. My brother and I used to play footballtogether, when I was in an elementary school. We&#39;d always play until it got dark.</description>
     </item>
     
     <item>
@@ -639,7 +660,7 @@ That&amp;rsquo;s true. But a lot of families need two incomes these days.
       <pubDate>Fri, 20 Sep 2019 13:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-20-homework/</guid>
-      <description>Unit 4: Family life Lesson B: Family memories 2. Grammar: used to and would  My family used to go to the beach in the summer. We&amp;rsquo;d go almost every weekend. My mother used to make a lunchbox for us when I was in a junior high school and high school. She&amp;rsquo;d make it every weekday. My brother and I used to play football together, when I was in an elementary school.</description>
+      <description>Unit 4: Family life Lesson B: Family memories 2. Grammar: used to and would  My family used to go to the beachin the summer. We&#39;d go almost every weekend. My mother used to make a lunchboxfor us when I was in a junior high school and high school. She&#39;d make it every weekday. My brother and I used to play footballtogether, when I was in an elementary school. We&#39;d always play until it got dark.</description>
     </item>
     
     <item>
@@ -648,7 +669,7 @@ That&amp;rsquo;s true. But a lot of families need two incomes these days.
       <pubDate>Wed, 18 Sep 2019 12:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-18-homework/</guid>
-      <description>Unit 4: Family life Lesson A: Family gripes 3. Listening and speaking: Reasonable demands? B. 1. My parents have their own company. You know, they sell all different kinds of bottle of water. And they want me to get in the board of that and be part of it. Like, my Mom wants me to learn more about bottle of water and everything. I&amp;rsquo;m not really into it. But, Mom said sure teach me all about it when I finish college.</description>
+      <description>Unit 4: Family life Lesson A: Family gripes 3. Listening and speaking: Reasonable demands? B. 1. My parents have their own company. You know, they sell all different kinds of bottle of water. And they want me to get in the board of that and be part of it. Like, my Mom wants me to learn more about bottle of water and everything. I&#39;m not really into it. But, Mom said sure teach me all about it when I finish college.</description>
     </item>
     
     <item>
@@ -657,9 +678,9 @@ That&amp;rsquo;s true. But a lot of families need two incomes these days.
       <pubDate>Fri, 13 Sep 2019 17:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-13-homework/</guid>
-      <description>Unit 4: Family life Lesson A: Family gripes Kids gripe about their parents&amp;hellip; Every day, my mother urges me to &amp;ldquo;Take a bath now.&amp;rdquo;, when I&amp;rsquo;m watching TV.
+      <description>Unit 4: Family life Lesson A: Family gripes Kids gripe about their parents&amp;hellip; Every day, my mother urges me to &amp;ldquo;Take a bath now.&amp;quot;, when I&#39;m watching TV.
 Parents gripe about their kids&amp;hellip; &amp;hellip;
-Spouses gripe about each other&amp;hellip; My wife sometimes interrupts me and tells her story. If I interrupted her or didn&amp;rsquo;t listen to her, I would certainly be scolded.
+Spouses gripe about each other&amp;hellip; My wife sometimes interrupts me and tells her story. If I interrupted her or didn&#39;t listen to her, I would certainly be scolded.
 1. Getting started A. My wife sometimes allocates me some chores: cleaning the bathrooms, the toilet, the Roomba or tidying up cardboard, and so on.</description>
     </item>
     
@@ -669,7 +690,7 @@ Spouses gripe about each other&amp;hellip; My wife sometimes interrupts me and t
       <pubDate>Wed, 11 Sep 2019 17:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-11-homework/</guid>
-      <description>Checkpoint Units 1-3 5. What do you think?  What&amp;rsquo;s the tallest building in this city?  Yokohama Landmark Tower is the tallest.  What&amp;rsquo;s the nicest park around here?  I have no idea about the nicest, because I&amp;rsquo;ve never been to a park around here.  Where&amp;rsquo;s the best place to sit and enjoy the view?  The restaurant in Yokohama Landmark Tower is the best. Because it has a magnificent night view.</description>
+      <description>Checkpoint Units 1-3 5. What do you think?  What&#39;s the tallest building in this city?   Yokohama Landmark Tower is the tallest.  What&#39;s the nicest park around here?   I have no idea about the nicest, because I&#39;ve never been to a park around here.  Where&#39;s the best place to sit and enjoy the view?   The restaurant in Yokohama Landmark Tower is the best.</description>
     </item>
     
     <item>
@@ -680,7 +701,7 @@ Spouses gripe about each other&amp;hellip; My wife sometimes interrupts me and t
       <guid>https://naomori.github.io/journal/posts/2019-09-10/</guid>
       <description>I worked from home last Friday and yesterday, and I work at the office today, so I came to the office for the first time in 4 days today.
 The reason why I came to the office is to access the server with GPU in my company. I want to use it to learn Deep Learning. There is no other reason.
-Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</description>
+Thus, if I don&#39;t use it, I don&#39;t have to go to the office.</description>
     </item>
     
     <item>
@@ -689,7 +710,7 @@ Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</
       <pubDate>Mon, 09 Sep 2019 20:45:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-09/</guid>
-      <description>Typhoon Faxai (Typhoon No.15) came in this morning. It was heavy rain and the wind was blowing hard. All train was stopped until 8 o&amp;rsquo;clock, so I decided to work from home today. In the Kanto region, there were restrictions on the number of visitors to the stations, and it seemed very crowded.</description>
+      <description>Typhoon Faxai (Typhoon No.15) came in this morning. It was heavy rain and the wind was blowing hard. All train was stopped until 8 o&#39;clock, so I decided to work from home today. In the Kanto region, there were restrictions on the number of visitors to the stations, and it seemed very crowded.</description>
     </item>
     
     <item>
@@ -698,7 +719,7 @@ Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</
       <pubDate>Wed, 04 Sep 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-09-04-homework/</guid>
-      <description>Lesson D: Is that a fact? 2. Speaking and writing: Interesting facts  What is the highest mountain?  Mount Fuji is the highest. It&amp;rsquo;s 3,776 meters high.  What is the longest river?  The Shinano River is the longest. It&amp;rsquo;s 367 kilo meters.  What is the longest bridge?  The Aqua Bridge is the longest. It&amp;rsquo;s 4,424 meters long.  What is the tallest building?  The Tokyo Skytree is the tallest.</description>
+      <description>Lesson D: Is that a fact? 2. Speaking and writing: Interesting facts  What is the highest mountain?  Mount Fuji is the highest. It&#39;s 3,776 meters high.   What is the longest river?  The Shinano River is the longest. It&#39;s 367 kilo meters.   What is the longest bridge?  The Aqua Bridge is the longest. It&#39;s 4,424 meters long.   What is the tallest building?</description>
     </item>
     
     <item>
@@ -708,7 +729,7 @@ Thus, if I don&amp;rsquo;t use it, I don&amp;rsquo;t have to go to the office.</
       
       <guid>https://naomori.github.io/journal/posts/2019-09-01/</guid>
       <description>Today is the last day of summer vacation. It was very hot and humid again today. I went to JA to by vegetables and went to a supermarket to buy some foods and drinks in the morning.
-I ate Shiroishi-Umen for lunch. I ate it for the first time and it was delicious. The noodles are short and easy to eat, and my wife made the soup for me. It&amp;rsquo;s so tasty.</description>
+I ate Shiroishi-Umen for lunch. I ate it for the first time and it was delicious. The noodles are short and easy to eat, and my wife made the soup for me. It&#39;s so tasty.</description>
     </item>
     
     <item>
@@ -717,9 +738,9 @@ I ate Shiroishi-Umen for lunch. I ate it for the first time and it was delicious
       <pubDate>Fri, 30 Aug 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-30-homework/</guid>
-      <description>Lesson C: I had the best time. 3. Listening and strategies: Travel talk 1. What&amp;rsquo;s the most interesting place you&amp;rsquo;ve ever been to? Isle of Skye and Highlands. It&amp;rsquo;s a medieval English scene I saw in a movie.
-2. What&amp;rsquo;s the most beautiful place you&amp;rsquo;ve ever seen? Niagara Falls. It&amp;rsquo;s most powerful and beautiful falls.
-3. What&amp;rsquo;s the best trip you&amp;rsquo;ve taken? Honeymoon. British fish&amp;amp;chips and ale are the best.</description>
+      <description>Lesson C: I had the best time. 3. Listening and strategies: Travel talk 1. What&#39;s the most interesting place you&#39;ve ever been to? Isle of Skye and Highlands. It&#39;s a medieval English scene I saw in a movie.
+2. What&#39;s the most beautiful place you&#39;ve ever seen? Niagara Falls. It&#39;s most powerful and beautiful falls.
+3. What&#39;s the best trip you&#39;ve taken? Honeymoon. British fish&amp;amp;chips and ale are the best.</description>
     </item>
     
     <item>
@@ -728,8 +749,8 @@ I ate Shiroishi-Umen for lunch. I ate it for the first time and it was delicious
       <pubDate>Wed, 28 Aug 2019 13:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-28-homework/</guid>
-      <description>Lesson C: I had the best time. 3. Listening and strategies: Travel talk Ray Welcome to Travel talk. I&amp;rsquo;m your host, Ray Martin. My guest today is travel writer, Jill Ryan. Jill has traveled around the world many times. Her new book is called &amp;ldquo;A travelers&amp;rsquo; tales&amp;rdquo;. Jill, welcome to Travel talk.
-Jill Thank you, Ray. It&amp;rsquo;s great to be here.
+      <description>Lesson C: I had the best time. 3. Listening and strategies: Travel talk Ray Welcome to Travel talk. I&#39;m your host, Ray Martin. My guest today is travel writer, Jill Ryan. Jill has traveled around the world many times. Her new book is called &amp;ldquo;A travelers&amp;rsquo; tales&amp;rdquo;. Jill, welcome to Travel talk.
+Jill Thank you, Ray. It&#39;s great to be here.
 Ray Jill, you have the most interesting life. You clearly love traveling.</description>
     </item>
     
@@ -739,7 +760,7 @@ Ray Jill, you have the most interesting life. You clearly love traveling.</descr
       <pubDate>Sun, 25 Aug 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-25/</guid>
-      <description>I bought the nintendo switch&amp;rsquo;s game, &amp;ldquo;Dragon Quest Builders 2&amp;rdquo;, before. I played with it today after a long time. I started it from noon and it was night when I realized.
+      <description>I bought the nintendo switch&#39;s game, &amp;ldquo;Dragon Quest Builders 2&amp;rdquo;, before. I played with it today after a long time. I started it from noon and it was night when I realized.
 I wasted my life&amp;hellip;</description>
     </item>
     
@@ -750,8 +771,8 @@ I wasted my life&amp;hellip;</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-24/</guid>
       <description>Today, I bought some vegetables at a grocery store of JA, and I went to a clinic near my home to get a cold medicine.
-I&amp;rsquo;m not feeling well recently. I have a runny nose and lots of sneeze, and I&amp;rsquo;m dull. I think it&amp;rsquo;s probably because of air conditioning during sleep.
-However, I can&amp;rsquo;t stop the air conditioner while sleeping. If I do that, I will get heat stroke.</description>
+I&#39;m not feeling well recently. I have a runny nose and lots of sneeze, and I&#39;m dull. I think it&#39;s probably because of air conditioning during sleep.
+However, I can&#39;t stop the air conditioner while sleeping. If I do that, I will get heat stroke.</description>
     </item>
     
     <item>
@@ -762,7 +783,7 @@ However, I can&amp;rsquo;t stop the air conditioner while sleeping. If I do that
       <guid>https://naomori.github.io/journal/posts/2019-08-23-homework/</guid>
       <description>Lesson C: I had the best time. 1. Conversation Strategy: Being supportive listener A. Q. Are there any national parks in your country? Yes, there are. Japan has about 30 national parks.
 Q. Which one is the most beautiful? Yakushima is the most beautiful one, I think. Yakushima became the first World heritage site in Japan.
-Q. Which one is the largest? Daisetsuzan National Park is the largest one. It&amp;rsquo;s 2,267 square kilometers.</description>
+Q. Which one is the largest? Daisetsuzan National Park is the largest one. It&#39;s 2,267 square kilometers.</description>
     </item>
     
     <item>
@@ -773,9 +794,9 @@ Q. Which one is the largest? Daisetsuzan National Park is the largest one. It&am
       <guid>https://naomori.github.io/journal/posts/2019-08-22/</guid>
       <description>Today, I went to Osaka to get a lecture of AI.
 I always buy the following this.
-It&amp;rsquo;s the most famous steamed bun with meat filling in Japan, especially in Kansai region. I stayed in the line for about twenty minutes to buy it.
+It&#39;s the most famous steamed bun with meat filling in Japan, especially in Kansai region. I stayed in the line for about twenty minutes to buy it.
 And then, I ate the following this because I had enough time before the departure of the Shinkansen.
-It&amp;rsquo;s also famous ramen in Kansai region. The last time I ate it was when I was a graduate student, about 15 years ago.</description>
+It&#39;s also famous ramen in Kansai region. The last time I ate it was when I was a graduate student, about 15 years ago.</description>
     </item>
     
     <item>
@@ -794,10 +815,10 @@ I want to learn deep learning quickly and develop various application softwares 
       <pubDate>Tue, 20 Aug 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-20-homework/</guid>
-      <description>Lesson A: Human wonders (page.23) 2. Grammar A. 1. What&amp;rsquo;s the largest city? Tokyo is the largest city in Japan.
+      <description>Lesson A: Human wonders (page.23) 2. Grammar A. 1. What&#39;s the largest city? Tokyo is the largest city in Japan.
 2. Which airport has the most flights every day? Haneda airport has the most flights in Japan.
-3. What&amp;rsquo;s the fastest way to travel. Shinkansen or a aircraft is the fastest way to travel in Japan.
-4. What&amp;rsquo;s the most beautiful region? Around Mt.Fuji is the most beautiful region in Japan.</description>
+3. What&#39;s the fastest way to travel. Shinkansen or a aircraft is the fastest way to travel in Japan.
+4. What&#39;s the most beautiful region? Around Mt.Fuji is the most beautiful region in Japan.</description>
     </item>
     
     <item>
@@ -817,8 +838,8 @@ The meal was very delicious. We will definitely be there next year.</description
       
       <guid>https://naomori.github.io/journal/posts/2019-08-09-homework/</guid>
       <description>Unit.3: Wonders of the world Before you begin &amp;hellip; Have you ever done any of these things? Which would you really like to do?
-See an active volcano. Yes, I&amp;rsquo;ve seen an active volcano, Mt.Sakura-jima. It&amp;rsquo;s a most famous active volcano in Japan. It often spews smoke and ashes, but not molten rocks.
-Go hiking in a beautiful canyon. Yes, I&amp;rsquo;ve hiked in a beautiful canyon, Takachiho. Takachiho is famous as the place where the grandson of the sun goddess descended from heaven.</description>
+See an active volcano. Yes, I&#39;ve seen an active volcano, Mt.Sakura-jima. It&#39;s a most famous active volcano in Japan. It often spews smoke and ashes, but not molten rocks.
+Go hiking in a beautiful canyon. Yes, I&#39;ve hiked in a beautiful canyon, Takachiho. Takachiho is famous as the place where the grandson of the sun goddess descended from heaven.</description>
     </item>
     
     <item>
@@ -828,9 +849,9 @@ Go hiking in a beautiful canyon. Yes, I&amp;rsquo;ve hiked in a beautiful canyon
       
       <guid>https://naomori.github.io/journal/posts/2019-08-07-homework/</guid>
       <description>Lesson D: Travel blogs (page.19) 2. Listening A. So, yeah. I guess Suzanne has having a really fun trip in New Zealand. Have you read her blog?
-No, I didn&amp;rsquo;t know she was writing one. So what&amp;rsquo;s she doing?
+No, I didn&#39;t know she was writing one. So what&#39;s she doing?
 Well, yesterday, she went hang-gliding. She said she was really scared.
-Was she? I&amp;rsquo;m not surprised. You know Suzanne. She&amp;rsquo;s always been scared of trying anything new.
+Was she? I&#39;m not surprised. You know Suzanne. She&#39;s always been scared of trying anything new.
 Yeah. Fortunately, she was with a friend, she says.</description>
     </item>
     
@@ -840,7 +861,7 @@ Yeah. Fortunately, she was with a friend, she says.</description>
       <pubDate>Mon, 05 Aug 2019 23:50:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-05/</guid>
-      <description>The surgery began at 9:00 am. The surgery was scheduled to end in 6 to 8 hours, but it took 11 hours. The doctor who mainly operated the surgery told us that the bleeding didn&amp;rsquo;t stop for a while and he hesitated to continue operating. Fortunately, the bleeding stopped and he continued. That is the reason that it took long time.
+      <description>The surgery began at 9:00 am. The surgery was scheduled to end in 6 to 8 hours, but it took 11 hours. The doctor who mainly operated the surgery told us that the bleeding didn&#39;t stop for a while and he hesitated to continue operating. Fortunately, the bleeding stopped and he continued. That is the reason that it took long time.
 Moreover, he said that this cancer might have metastasized to the liver.</description>
     </item>
     
@@ -851,7 +872,7 @@ Moreover, he said that this cancer might have metastasized to the liver.</descri
       
       <guid>https://naomori.github.io/journal/posts/2019-08-04/</guid>
       <description>I and my wife came to Miyazaki city to visit my father-in-law who is going to have an surgery tomorrow.
-He has been at a hospital in Miyazaki city from 31 July and had some health checks for the surgery. He looked fine, but he was a little bit nervous. Because he&amp;rsquo;s never stayed at a hospital and had a surgery. He seemed to be bearing up so as not to worry his family.</description>
+He has been at a hospital in Miyazaki city from 31 July and had some health checks for the surgery. He looked fine, but he was a little bit nervous. Because he&#39;s never stayed at a hospital and had a surgery. He seemed to be bearing up so as not to worry his family.</description>
     </item>
     
     <item>
@@ -861,8 +882,8 @@ He has been at a hospital in Miyazaki city from 31 July and had some health chec
       
       <guid>https://naomori.github.io/journal/posts/2019-08-03/</guid>
       <description>I cleaned my laptop XPS 13.
-I have used my laptop as Xubuntu 18.04 LTS, but unfortunately, I couldn&amp;rsquo;t activate the function of palm-detection. So I had to use a mouse and it was very tiring.
-I re-installed Ubuntu-18.04.2 LTS into my laptop XPS 13. Fortunately, palm-detection works! I can&amp;rsquo;t understand why it works, but I&amp;rsquo;m released from a mouse.</description>
+I have used my laptop as Xubuntu 18.04 LTS, but unfortunately, I couldn&#39;t activate the function of palm-detection. So I had to use a mouse and it was very tiring.
+I re-installed Ubuntu-18.04.2 LTS into my laptop XPS 13. Fortunately, palm-detection works! I can&#39;t understand why it works, but I&#39;m released from a mouse.</description>
     </item>
     
     <item>
@@ -872,9 +893,9 @@ I re-installed Ubuntu-18.04.2 LTS into my laptop XPS 13. Fortunately, palm-detec
       
       <guid>https://naomori.github.io/journal/posts/2019-08-02-homework/</guid>
       <description>Lesson D: Travel blogs (page.19) 1. Reading He had a flat tire on the way to Ipala Volcano. Hard rain soaked everything outside the tent.
-She missed Carnival in Rio that she&amp;rsquo;s always wanted to see. And she lost her camera.
+She missed Carnival in Rio that she&#39;s always wanted to see. And she lost her camera.
 2. Listening A. So, yeah. I guess Suzanne has having a really fun trip in New Zealand. Have you read her blog?
-No, I didn&amp;rsquo;t know she was writing one.</description>
+No, I didn&#39;t know she was writing one.</description>
     </item>
     
     <item>
@@ -883,8 +904,8 @@ No, I didn&amp;rsquo;t know she was writing one.</description>
       <pubDate>Thu, 01 Aug 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-08-01/</guid>
-      <description>It&amp;rsquo;s hot and humid today.
-I worked at office today, but I don&amp;rsquo;t want to commute. Because it was too hot to walk a little and I was sweaty. I was about to get heatstroke.
+      <description>It&#39;s hot and humid today.
+I worked at office today, but I don&#39;t want to commute. Because it was too hot to walk a little and I was sweaty. I was about to get heatstroke.
 I hate too hot summer. I wish the ice age would come.</description>
     </item>
     
@@ -895,7 +916,7 @@ I hate too hot summer. I wish the ice age would come.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-31/</guid>
       <description>I worked from home today.
-I don&amp;rsquo;t want to go out because it&amp;rsquo;s been hot these days. Getting on a crowded train on such a hot day is hell. But, I&amp;rsquo;m gonna go Yokohama to take an English conversation lesson now. I&amp;rsquo;ll come back alive somehow.</description>
+I don&#39;t want to go out because it&#39;s been hot these days. Getting on a crowded train on such a hot day is hell. But, I&#39;m gonna go Yokohama to take an English conversation lesson now. I&#39;ll come back alive somehow.</description>
     </item>
     
     <item>
@@ -904,7 +925,7 @@ I don&amp;rsquo;t want to go out because it&amp;rsquo;s been hot these days. Get
       <pubDate>Wed, 31 Jul 2019 09:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-31-homework/</guid>
-      <description>Lesson C: I&amp;rsquo;ve heard good things &amp;hellip; (page.16) 1. Conversation Strategy: Keeping the conversation going A. What kinds of fun things do people do on the weekend? Make a list.  going shopping watching movie doing exercise  B. What fun things has Jason done lately? He has gone to a new club called Fizz last week.
+      <description>Lesson C: I&#39;ve heard good things &amp;hellip; (page.16) 1. Conversation Strategy: Keeping the conversation going A. What kinds of fun things do people do on the weekend? Make a list.  going shopping watching movie doing exercise  B. What fun things has Jason done lately? He has gone to a new club called Fizz last week.
 C. Find other examples in the conversation.  Have you been there ?</description>
     </item>
     
@@ -914,8 +935,8 @@ C. Find other examples in the conversation.  Have you been there ?</description>
       <pubDate>Tue, 30 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-30/</guid>
-      <description>I forgot to bring my lunch today. My wife blamed me, saying, &amp;ldquo;It&amp;rsquo;s terrible that you didn&amp;rsquo;t take it even though I made it when I was sick&amp;rdquo;. I apologized to her and got her to forgive me somehow.
-So today&amp;rsquo;s lunch was a rice ball and a sandwich.</description>
+      <description>I forgot to bring my lunch today. My wife blamed me, saying, &amp;ldquo;It&#39;s terrible that you didn&#39;t take it even though I made it when I was sick&amp;rdquo;. I apologized to her and got her to forgive me somehow.
+So today&#39;s lunch was a rice ball and a sandwich.</description>
     </item>
     
     <item>
@@ -926,8 +947,8 @@ So today&amp;rsquo;s lunch was a rice ball and a sandwich.</description>
       <guid>https://naomori.github.io/journal/posts/2019-07-29/</guid>
       <description>I worked from home today and last Friday.
 Japanese government encouraged office workers to work from home last week and this week. Because the Tokyo Olympics will be held at the same time next year. They want to control the traffic jam at that time.
-Therefore, I worked from home last Monday, last Friday and today. Moreover, I&amp;rsquo;ll work from home next Wednesday and next Friday, too.
-I&amp;rsquo;d like to work from home everyday, because it&amp;rsquo;s very tiring to commute every day.</description>
+Therefore, I worked from home last Monday, last Friday and today. Moreover, I&#39;ll work from home next Wednesday and next Friday, too.
+I&#39;d like to work from home everyday, because it&#39;s very tiring to commute every day.</description>
     </item>
     
     <item>
@@ -947,8 +968,8 @@ I had been camping in Hyuga that summer, and a typhoon came. The typhoon passed 
       <pubDate>Fri, 19 Jul 2019 11:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-19-homework/</guid>
-      <description>1. This summer I&amp;rsquo;m definitely going to This summer I&amp;rsquo;m definitely going to learn algebra and statistics.
-I learned algebra and statistics when I was in high school and university, but I haven&amp;rsquo;t used them very much recently. Because I used to use sophisticated software libraries, so I didn&amp;rsquo;t have to use them.
+      <description>1. This summer I&#39;m definitely going to This summer I&#39;m definitely going to learn algebra and statistics.
+I learned algebra and statistics when I was in high school and university, but I haven&#39;t used them very much recently. Because I used to use sophisticated software libraries, so I didn&#39;t have to use them.
 However, I have to use them from now on to understand the theory of machine learning and deep learning.</description>
     </item>
     
@@ -959,7 +980,7 @@ However, I have to use them from now on to understand the theory of machine lear
       
       <guid>https://naomori.github.io/journal/posts/2019-07-18/</guid>
       <description>I went to Osaka to get a lecture for Deep Learning.
-I usually get motion sickness when I work on a PC while riding Shinkansen, but this time I took a preventative medicine for motion sickness, so I didn&amp;rsquo;t feel anything wrong.
+I usually get motion sickness when I work on a PC while riding Shinkansen, but this time I took a preventative medicine for motion sickness, so I didn&#39;t feel anything wrong.
 About 20 people have participated in the AI training, and each group of 4 people will work on exercises. The final challenge of this training is to challenge the Amazon Robotics Challenge.</description>
     </item>
     
@@ -969,8 +990,8 @@ About 20 people have participated in the AI training, and each group of 4 people
       <pubDate>Wed, 17 Jul 2019 17:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-17-homework/</guid>
-      <description>Unit 2. Experiences Lesson B Unusual experiences 1. Building language A. Which experience do you think was scarier ? I think Martin&amp;rsquo;s experience is scarier. I&amp;rsquo;m introverted and bad at singing, so if I were him, I would be scared to sing in front of many people and my legs would shave.
-B. Unscramble the questions and complete the answers. Then practice with a partner.  1.A: Have you ever been to Ecuador?</description>
+      <description>Unit 2. Experiences Lesson B Unusual experiences 1. Building language A. Which experience do you think was scarier ? I think Martin&#39;s experience is scarier. I&#39;m introverted and bad at singing, so if I were him, I would be scared to sing in front of many people and my legs would shave.
+B. Unscramble the questions and complete the answers. Then practice with a partner.   1.A: Have you ever been to Ecuador?</description>
     </item>
     
     <item>
@@ -980,7 +1001,7 @@ B. Unscramble the questions and complete the answers. Then practice with a partn
       
       <guid>https://naomori.github.io/journal/posts/2019-07-12/</guid>
       <description>How to make a conversation longer. The best way to show that you want to start a longer conversation is to ask open-ended questions. Open-ended questions have to be answered with more than one word and allow the other person to talk longer.
-1. Open-ended questions  What do you think about hoge? Have you heard that hoge? (If they answer &amp;ldquo;Yes&amp;rdquo;: ) What do you think? What do you like about hoge?</description>
+ 1. Open-ended questions  What do you think about hoge? Have you heard that hoge? : (If they answer &amp;ldquo;Yes&amp;rdquo;: ) What do you think? What do you like about hoge?</description>
     </item>
     
     <item>
@@ -989,8 +1010,8 @@ B. Unscramble the questions and complete the answers. Then practice with a partn
       <pubDate>Thu, 11 Jul 2019 19:15:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-11/</guid>
-      <description>I&amp;rsquo;ve been studying a development environment for AI(ML/DL). I haven&amp;rsquo;t studied AI itself yet. Despite that, there are too many things I don&amp;rsquo;t know and I have a lot to learn.
-It feels so good to know what I didn&amp;rsquo;t know. There are many such moments since I started studying AI.
+      <description>I&#39;ve been studying a development environment for AI(ML/DL). I haven&#39;t studied AI itself yet. Despite that, there are too many things I don&#39;t know and I have a lot to learn.
+It feels so good to know what I didn&#39;t know. There are many such moments since I started studying AI.
 It feels so good to try new things at any age.</description>
     </item>
     
@@ -1000,8 +1021,8 @@ It feels so good to try new things at any age.</description>
       <pubDate>Wed, 10 Jul 2019 17:45:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-10/</guid>
-      <description>I started to be busy from this week. Because I&amp;rsquo;m assigned to a new task. It&amp;rsquo;s about Deep Learning as known as Artificial Intelligence. It&amp;rsquo;s used for self-driving, advanced driving assistance, driver monitoring, and so on.
-I&amp;rsquo;ll take it easy. I think it&amp;rsquo;s the most efficient to work hard at ease. Don&amp;rsquo;t take it too seriously.</description>
+      <description>I started to be busy from this week. Because I&#39;m assigned to a new task. It&#39;s about Deep Learning as known as Artificial Intelligence. It&#39;s used for self-driving, advanced driving assistance, driver monitoring, and so on.
+I&#39;ll take it easy. I think it&#39;s the most efficient to work hard at ease. Don&#39;t take it too seriously.</description>
     </item>
     
     <item>
@@ -1011,7 +1032,7 @@ I&amp;rsquo;ll take it easy. I think it&amp;rsquo;s the most efficient to work h
       
       <guid>https://naomori.github.io/journal/posts/2019-07-10-homework/</guid>
       <description>Free talk (p.129) Unit 1. What are we like? I asked me all the questions.
-   Find someone who&amp;hellip; Notes     reads very fast. No, I don&amp;rsquo;t. I read a page over and over again.   gets impatient easily. No, I don&amp;rsquo;t. I think I&amp;rsquo;m patient unless someone is rude to me.   is incredibly organized. No, I&amp;rsquo;m not. My desk is disorganized, so I&amp;rsquo;m not good at organizing.</description>
+   Find someone who&amp;hellip; Notes     reads very fast. No, I don&#39;t. I read a page over and over again.   gets impatient easily. No, I don&#39;t. I think I&#39;m patient unless someone is rude to me.   is incredibly organized. No, I&#39;m not. My desk is disorganized, so I&#39;m not good at organizing.</description>
     </item>
     
     <item>
@@ -1020,8 +1041,8 @@ I&amp;rsquo;ll take it easy. I think it&amp;rsquo;s the most efficient to work h
       <pubDate>Tue, 09 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-09/</guid>
-      <description>It held a first meeting of my new task, deep learning for Embedded device. As a first milestone, I&amp;rsquo;m going to build a deep learning development environment on NVIDIA&amp;rsquo;s Jetson TX2 development kit.
-And I&amp;rsquo;m going to participate in Deep Learning training. It&amp;rsquo;s interesting to try new technique. But it&amp;rsquo;s not easy to learn new technique. I&amp;rsquo;ll do my best.</description>
+      <description>It held a first meeting of my new task, deep learning for Embedded device. As a first milestone, I&#39;m going to build a deep learning development environment on NVIDIA&#39;s Jetson TX2 development kit.
+And I&#39;m going to participate in Deep Learning training. It&#39;s interesting to try new technique. But it&#39;s not easy to learn new technique. I&#39;ll do my best.</description>
     </item>
     
     <item>
@@ -1030,8 +1051,8 @@ And I&amp;rsquo;m going to participate in Deep Learning training. It&amp;rsquo;s
       <pubDate>Mon, 08 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-08/</guid>
-      <description>I couldn&amp;rsquo;t sleep well for some reason last night. I have no idea about the reason. Maybe because of my bed. It&amp;rsquo;s a small to sleep with me and my wife. Because it&amp;rsquo;s a semi-double size bed, it&amp;rsquo;s obvious.
-I&amp;rsquo;m going to buy a new queen size bed and a good mattress to sleep well.</description>
+      <description>I couldn&#39;t sleep well for some reason last night. I have no idea about the reason. Maybe because of my bed. It&#39;s a small to sleep with me and my wife. Because it&#39;s a semi-double size bed, it&#39;s obvious.
+I&#39;m going to buy a new queen size bed and a good mattress to sleep well.</description>
     </item>
     
     <item>
@@ -1041,7 +1062,7 @@ I&amp;rsquo;m going to buy a new queen size bed and a good mattress to sleep wel
       
       <guid>https://naomori.github.io/journal/posts/2019-07-07/</guid>
       <description>Today was Tanabata festival. But I caught a cold the day before and I feel sick again today.
-I went to a car dealer to repair my car this afternoon. My car was damaged during my vacation the month before last. I rented an Impreza XV as a loaner. It felt a little tight because it&amp;rsquo;s little lower than Forester, my car.</description>
+I went to a car dealer to repair my car this afternoon. My car was damaged during my vacation the month before last. I rented an Impreza XV as a loaner. It felt a little tight because it&#39;s little lower than Forester, my car.</description>
     </item>
     
     <item>
@@ -1050,8 +1071,8 @@ I went to a car dealer to repair my car this afternoon. My car was damaged durin
       <pubDate>Sat, 06 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-06/</guid>
-      <description>I caught a cold. I had a runny nose, a headache, and muscle pain. So, I stayed at home all day. I was thinking of going surfing, but I couldn&amp;rsquo;t.
-It&amp;rsquo;s a pity to catch a cold even though it&amp;rsquo;s a holiday.</description>
+      <description>I caught a cold. I had a runny nose, a headache, and muscle pain. So, I stayed at home all day. I was thinking of going surfing, but I couldn&#39;t.
+It&#39;s a pity to catch a cold even though it&#39;s a holiday.</description>
     </item>
     
     <item>
@@ -1060,9 +1081,9 @@ It&amp;rsquo;s a pity to catch a cold even though it&amp;rsquo;s a holiday.</des
       <pubDate>Fri, 05 Jul 2019 17:50:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-05/</guid>
-      <description>I worked from home today. Working from home, I&amp;rsquo;m glad need not to commute. On fridays, stations are crowded and I don&amp;rsquo;t like that.
+      <description>I worked from home today. Working from home, I&#39;m glad need not to commute. On fridays, stations are crowded and I don&#39;t like that.
 If I can, I want to work from home everyday.
-By the way, my credit card was used illegally. Actually, I don&amp;rsquo;t have to pay for them. However, I have to reissue my credit card so I cannot use it for a while. In addition, I will need to update the credit card information on my various payments.</description>
+ By the way, my credit card was used illegally. Actually, I don&#39;t have to pay for them. However, I have to reissue my credit card so I cannot use it for a while. In addition, I will need to update the credit card information on my various payments.</description>
     </item>
     
     <item>
@@ -1071,7 +1092,7 @@ By the way, my credit card was used illegally. Actually, I don&amp;rsquo;t have 
       <pubDate>Fri, 05 Jul 2019 16:08:28 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-05-homework/</guid>
-      <description>Unit 2. Experiences Lesson A Hopes and dreams 1. Getting Started B. Listen. What is each person&amp;rsquo;s secret dream ? Do you have any secret dreams like these ? Jill Richardson Her secret dream is to study acting.
+      <description>Unit 2. Experiences Lesson A Hopes and dreams 1. Getting Started B. Listen. What is each person&#39;s secret dream ? Do you have any secret dreams like these ? Jill Richardson Her secret dream is to study acting.
 Sonia and Carlos Silva Their secret dream is to buy their own sailboat.
 Raquel Garza Her secret dream is to go surfing.
 Hiro Tanaka His secret dream is to take his parents to Europe.</description>
@@ -1083,7 +1104,7 @@ Hiro Tanaka His secret dream is to take his parents to Europe.</description>
       <pubDate>Thu, 04 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-04/</guid>
-      <description>Today, my boss make a proposal me about my new job. I&amp;rsquo;m very interested in it. It&amp;rsquo;s about embedded AI. There&amp;rsquo;s been a lot of talk about AI in every industry these days. If I do the work, it will improve my technical ability and lead to the next new and interesting work. The person in charge will explain the detail of the proposal to me next week. Whatever the content, I will accept this proposal.</description>
+      <description>Today, my boss make a proposal me about my new job. I&#39;m very interested in it. It&#39;s about embedded AI. There&#39;s been a lot of talk about AI in every industry these days. If I do the work, it will improve my technical ability and lead to the next new and interesting work. The person in charge will explain the detail of the proposal to me next week. Whatever the content, I will accept this proposal.</description>
     </item>
     
     <item>
@@ -1092,8 +1113,8 @@ Hiro Tanaka His secret dream is to take his parents to Europe.</description>
       <pubDate>Wed, 03 Jul 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-07-03/</guid>
-      <description>I had an English lesson today. I feel I&amp;rsquo;ve not improve English skill very much. Maybe I have to study English harder everyday.. I should do my best effort to learn English, shouldn&amp;rsquo;t I ?
-The followings is my homework.
+      <description>I had an English lesson today. I feel I&#39;ve not improve English skill very much. Maybe I have to study English harder everyday.. I should do my best effort to learn English, shouldn&#39;t I ?
+ The followings is my homework.
 Describe 5 celebrities, share their personality and habits.  Kuro-chan, who is a comedian, is incredibly dishonest. He is always lying. Matchan, of the comedy duo &amp;ldquo;Downtown&amp;rdquo;, is extremely funny.</description>
     </item>
     
@@ -1104,9 +1125,9 @@ Describe 5 celebrities, share their personality and habits.  Kuro-chan, who is a
       
       <guid>https://naomori.github.io/journal/posts/2019-07-02/</guid>
       <description>I had trouble falling asleep last night. Because It was hot and humid night.
-I heard that the function of the brain is blunted like drunken if you don&amp;rsquo;t have enough sleep.
-That is certainly true. My head was fuzzy and I couldn&amp;rsquo;t concentrate.
-In these day, I&amp;rsquo;m thinking of buying a bigger bed that is comfortable to sleep.</description>
+I heard that the function of the brain is blunted like drunken if you don&#39;t have enough sleep.
+That is certainly true. My head was fuzzy and I couldn&#39;t concentrate.
+In these day, I&#39;m thinking of buying a bigger bed that is comfortable to sleep.</description>
     </item>
     
     <item>
@@ -1125,7 +1146,7 @@ On the sandy beach, the construction of a sea house was being promoted at night,
       <pubDate>Sun, 30 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-30/</guid>
-      <description>I was thinking of surfing today as I did yesterday. So I went to surf. But, I couldn&amp;rsquo;t surf, I was almost drown.
+      <description>I was thinking of surfing today as I did yesterday. So I went to surf. But, I couldn&#39;t surf, I was almost drown.
 The low pressure made strong onshore winds and high waves, making it difficult for me to surf. They disturbed me trying to go outside.
 The wind was weak early in the morning, so I wish I had gone surfing at that time.
 In the afternoon, I watched a drama broadcasted on NETFLIX.</description>
@@ -1137,7 +1158,7 @@ In the afternoon, I watched a drama broadcasted on NETFLIX.</description>
       <pubDate>Sat, 29 Jun 2019 20:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-29/</guid>
-      <description>Today, I went out for drinking with my wife and friends in Noge, Yokohama. It was drizzling rain, but I&amp;rsquo;m glad it didn&amp;rsquo;t rain heavily.
+      <description>Today, I went out for drinking with my wife and friends in Noge, Yokohama. It was drizzling rain, but I&#39;m glad it didn&#39;t rain heavily.
 We went to three Izakaya bars. In Noge, there are many Izakaya bars, so people go to some Izakaya bars to enjoy various dishes and drinks.
 One of our friends traveled to Spain for a week in early June. She gave us some presents. We were very happy.</description>
     </item>
@@ -1150,7 +1171,7 @@ One of our friends traveled to Spain for a week in early June. She gave us some 
       <guid>https://naomori.github.io/journal/posts/2019-06-28/</guid>
       <description>I worked from home today. I had written documents for my software about its architecture, usage, how to build and installation.
 The reason what I worked from home today was that the typhoon was supposed to come. But it went to somewhere. There were no winds, no heavy rain and no lightning.
-The weather was so fine and hot today. It&amp;rsquo;s a season that requires air conditioning.
+The weather was so fine and hot today. It&#39;s a season that requires air conditioning.
 I will go surfing tomorrow.</description>
     </item>
     
@@ -1160,12 +1181,12 @@ I will go surfing tomorrow.</description>
       <pubDate>Thu, 27 Jun 2019 19:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-27/</guid>
-      <description>It&amp;rsquo;s still raining today, however I forgot to bring my umbrella. Oh my gosh&amp;hellip;
-It&amp;rsquo;s, however, just drizzling rain.
-The followings will be my homework by tomorrow.
+      <description>It&#39;s still raining today, however I forgot to bring my umbrella. Oh my gosh&amp;hellip;
+It&#39;s, however, just drizzling rain.
+ The followings will be my homework by tomorrow.
 Unit 2. Experiences (page.11) Think of some special experiences you hope to have in the future. Tell the class&amp;hellip;
-a place you&amp;rsquo;d like to go someday. I have many places I&amp;rsquo;d like to go. One of those is Iceland.
-something you&amp;rsquo;d love to see.</description>
+a place you&#39;d like to go someday. I have many places I&#39;d like to go. One of those is Iceland.
+something you&#39;d love to see.</description>
     </item>
     
     <item>
@@ -1175,8 +1196,8 @@ something you&amp;rsquo;d love to see.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-26/</guid>
       <description>I got an English lesson today. I had a quiz that you make one word by choosing two memos from the ones with one word.
- back pack butter fly light house blue berry etc.  I thought it&amp;rsquo;s easy, but I couldn&amp;rsquo;t find some words. I don&amp;rsquo;t have enough vocabulary.
-The followings will be my homework by next Friday.
+ back pack butter fly light house blue berry etc.  I thought it&#39;s easy, but I couldn&#39;t find some words. I don&#39;t have enough vocabulary.
+ The followings will be my homework by next Friday.
 page.10: Vocabulary notebook 1. Rewrite the sentences so that they have an opposite meaning.</description>
     </item>
     
@@ -1186,9 +1207,9 @@ page.10: Vocabulary notebook 1. Rewrite the sentences so that they have an oppos
       <pubDate>Tue, 25 Jun 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-25/</guid>
-      <description>Today is sunny weather during the rainy season. The air temperature is high and humidity is also high, but at least it&amp;rsquo;s better than a rainy day.
+      <description>Today is sunny weather during the rainy season. The air temperature is high and humidity is also high, but at least it&#39;s better than a rainy day.
 Apart from that, Zozomat was announced. It measures your foot shape three-dimensionally in millimeters.
-It&amp;rsquo;s a great innovation because I have had several mistakes in selecting shoes. It will be delivered this winter, so I&amp;rsquo;m looking forward to it.</description>
+It&#39;s a great innovation because I have had several mistakes in selecting shoes. It will be delivered this winter, so I&#39;m looking forward to it.</description>
     </item>
     
     <item>
@@ -1197,11 +1218,11 @@ It&amp;rsquo;s a great innovation because I have had several mistakes in selecti
       <pubDate>Mon, 24 Jun 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-24/</guid>
-      <description>It&amp;rsquo;s raining today again.
+      <description>It&#39;s raining today again.
 Last night, May beetle was sticking to my cloth that was hanging out.
 Summer is coming.
-The followings is my homework by next Wednesday.
-I couldn&amp;rsquo;t hear some of what they said. I should ask my teacher about them.
+ The followings is my homework by next Wednesday.
+I couldn&#39;t hear some of what they said. I should ask my teacher about them.
 page.9: Lesson-D 2.Listening Listen to five people talk about themselves. Match the people and the things they will probably say next.
 1. Ana I started lessons when I was in elementary school.</description>
     </item>
@@ -1223,9 +1244,9 @@ This is an animation in which a hero plays an active role, but what is different
       
       <guid>https://naomori.github.io/journal/posts/2019-06-22/</guid>
       <description>Today is a relaxing day.
-I woke up at 10:00 o&amp;rsquo;clock on a late morning than usual. And then, I sent the packages which at the post office.
+I woke up at 10:00 o&#39;clock on a late morning than usual. And then, I sent the packages which at the post office.
 I had Taiwan ramen of a restaurant called Misen which is famouse in Nagoya for lunch. It was very hot and tasted wonderful.
-After lunch, I took a nap for 1 hour. I went to surfing. The waves wasn&amp;rsquo;t very high, but at least it was just right for me.</description>
+After lunch, I took a nap for 1 hour. I went to surfing. The waves wasn&#39;t very high, but at least it was just right for me.</description>
     </item>
     
     <item>
@@ -1234,9 +1255,9 @@ After lunch, I took a nap for 1 hour. I went to surfing. The waves wasn&amp;rsqu
       <pubDate>Fri, 21 Jun 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-21/</guid>
-      <description>I worked from home today. Working from home is a lot easier as I don&amp;rsquo;t have to commute. Because it takes 1 hour and half to commute.
+      <description>I worked from home today. Working from home is a lot easier as I don&#39;t have to commute. Because it takes 1 hour and half to commute.
 And more, there is no toilet problem. In Office, after lunch, almost toilets are always full. Reforming working style should be started from the toilet.
-And I&amp;rsquo;m gonna have a English lesson this evening. The following is today&amp;rsquo;s homework.
+ And I&#39;m gonna have a English lesson this evening. The following is today&#39;s homework.
 Page.8: Lesson-D 1:Reading A.</description>
     </item>
     
@@ -1247,7 +1268,7 @@ Page.8: Lesson-D 1:Reading A.</description>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-19/</guid>
       <description>The following is homework I have to do by this evening.
-Page.7: Lesson-C 3.Strategies -Funny little habits- C. Talk about people with habits like these. Think of something positive to say. texting  My friend is always texting, even during talking. But at least his tweets are interesting.  chewing gum  Some people is always chewing gum, event at a formal event. But at least chewing gum calms their mind down.</description>
+ Page.7: Lesson-C 3.Strategies -Funny little habits- C. Talk about people with habits like these. Think of something positive to say. texting  My friend is always texting, even during talking. But at least his tweets are interesting.  chewing gum  Some people is always chewing gum, event at a formal event. But at least chewing gum calms their mind down.</description>
     </item>
     
     <item>
@@ -1258,10 +1279,10 @@ Page.7: Lesson-C 3.Strategies -Funny little habits- C. Talk about people with ha
       <guid>https://naomori.github.io/journal/posts/2019-06-18/</guid>
       <description>The following is homework I have to do by tomorrow.
 Page.6: Lesson-C 1.D Change the underlined parts of these sentences to describe habits. Use always and a continuous verb.
- I&amp;rsquo;m pretty disorganized. I lose things.
-I&amp;rsquo;m always losing things. Everyone in my family loves music. We sing together.
-We&amp;rsquo;re always singing together. My brother is really generous with his time. He fixes my computer.
-He&amp;rsquo;s always fixing my computer.</description>
+ I&#39;m pretty disorganized. I losethings.
+I&#39;m always losing things. Everyone in my family loves music. We singtogether.
+We&#39;re always singing together. My brother is really generous with his time. He fixesmy computer.
+He&#39;s always fixing my computer. My father is a workaholic.</description>
     </item>
     
     <item>
@@ -1270,9 +1291,9 @@ He&amp;rsquo;s always fixing my computer.</description>
       <pubDate>Sun, 16 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-16/</guid>
-      <description>On Father&amp;rsquo;s day, my family ate eel. I love eels very much. Eel is just awesome.
-Sadly, however, the number of eels has been decreasing. It&amp;rsquo;s said that the reasons are overfishing and environmental change.
-Since the ecology of eels isn&amp;rsquo;t known yet, complete eel farming is difficult.
+      <description>On Father&#39;s day, my family ate eel. I love eels very much. Eel is just awesome.
+Sadly, however, the number of eels has been decreasing. It&#39;s said that the reasons are overfishing and environmental change.
+Since the ecology of eels isn&#39;t known yet, complete eel farming is difficult.
 Even now, research on complete eel farming is being continued, and it is said that it may be successful with a little more.</description>
     </item>
     
@@ -1282,8 +1303,8 @@ Even now, research on complete eel farming is being continued, and it is said th
       <pubDate>Sat, 15 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-15/</guid>
-      <description>Today I came back to my parent&amp;rsquo;s home. Because my brother who lives in America was going back to my parent&amp;rsquo;s home. We had happy family reunion on Father&amp;rsquo;s day.
-But there was also sad news. My brother&amp;rsquo;s wife&amp;rsquo;s father had stomach cancer and colon cancer. He had surgery to remove his cancer, and had been in the hospital for a month. It was last December. He didn&amp;rsquo;t inform his daughter that he had surgery so as not to make her worry.</description>
+      <description>Today I came back to my parent&#39;s home. Because my brother who lives in America was going back to my parent&#39;s home. We had happy family reunion on Father&#39;s day.
+But there was also sad news. My brother&#39;s wife&#39;s father had stomach cancer and colon cancer. He had surgery to remove his cancer, and had been in the hospital for a month. It was last December. He didn&#39;t inform his daughter that he had surgery so as not to make her worry.</description>
     </item>
     
     <item>
@@ -1292,9 +1313,9 @@ But there was also sad news. My brother&amp;rsquo;s wife&amp;rsquo;s father had 
       <pubDate>Fri, 14 Jun 2019 09:47:54 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-14/</guid>
-      <description>Today, I attneded AWS Summit Tokyo 2019: the final day. I used the Shonan Liner and the limited express Wakashio this morning, too. It was so comfortable that I can&amp;rsquo;t imagine coming to Kaihin Makuhari without getting on the express.
-Keynote (10:00-11:30) It was the almost same as the Day 1&amp;rsquo;s keynote. Furthermore, the presenter talked too much and it was overtime. Panasonic&amp;rsquo;s speech wasn&amp;rsquo;t good neither.
-[初級] AWS コンテナサービス入門 (12:00-12:40) The presenter talked very well, so I could understand about the AWS Container Services.</description>
+      <description>Today, I attneded AWS Summit Tokyo 2019: the final day. I used the Shonan Liner and the limited express Wakashio this morning, too. It was so comfortable that I can&#39;t imagine coming to Kaihin Makuhari without getting on the express.
+Keynote (10:00-11:30) It was the almost same as the Day 1&#39;s keynote. Furthermore, the presenter talked too much and it was overtime. Panasonic&#39;s speech wasn&#39;t good neither.
+ [初級] AWS コンテナサービス入門 (12:00-12:40) The presenter talked very well, so I could understand about the AWS Container Services.</description>
     </item>
     
     <item>
@@ -1304,7 +1325,7 @@ Keynote (10:00-11:30) It was the almost same as the Day 1&amp;rsquo;s keynote. F
       
       <guid>https://naomori.github.io/journal/posts/2019-06-13/</guid>
       <description>Continuing from yesterday, I attended AWS Summit Tokyo 2019 today, too. This morning I used the Shonan Liner and the limited express Wakashio, so it was comfortable to come to the Kaihin-Makuhari station.
-AWS Sumerian (10:00-10:40) AWS Sumerian provides Environments of development and distribution for eXtended Reality(XR). XR represents Virtual Reality(VR), Augmented Reality(AR), and Mixed Reality(MR). A presenter said that the XR Application developed by Sumerian works on various environments.</description>
+AWS Sumerian (10:00-10:40) AWS Sumerian provides Environments of development and distribution for eXtended Reality(XR). XR represents Virtual Reality(VR), Augmented Reality(AR), and Mixed Reality(MR). A presenter said that the XR Application developed by Sumerian works on various environments. It works with AWS IoT and can display graph of data collected by sensors on AR application.</description>
     </item>
     
     <item>
@@ -1313,9 +1334,9 @@ AWS Sumerian (10:00-10:40) AWS Sumerian provides Environments of development and
       <pubDate>Wed, 12 Jun 2019 09:44:58 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-12/</guid>
-      <description>I attended AWS Summit Tokyo 2019 today. It will be held in 3 days. I&amp;rsquo;m gonna attend it every days.
-Keynote (10:00-11:30) The music was loud at the venue and it was like rock concert, so I was a little excited. The opening of keynote was started with movies and dance. It&amp;rsquo;s completely concert.
-In this AWS Summit Tokyo 2019, 33,000+ have been registered. AWS has 50% share in cloud business, it&amp;rsquo;s great.</description>
+      <description>I attended AWS Summit Tokyo 2019 today. It will be held in 3 days. I&#39;m gonna attend it every days.
+Keynote (10:00-11:30) The music was loud at the venue and it was like rock concert, so I was a little excited. The opening of keynote was started with movies and dance. It&#39;s completely concert.
+In this AWS Summit Tokyo 2019, 33,000+ have been registered. AWS has 50% share in cloud business, it&#39;s great.</description>
     </item>
     
     <item>
@@ -1324,8 +1345,8 @@ In this AWS Summit Tokyo 2019, 33,000+ have been registered. AWS has 50% share i
       <pubDate>Tue, 11 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-11/</guid>
-      <description>Yesterday, I have had chills, headache and runny nose. Maybe I had a cold, so I took Bufferin Ex. It cured me, as I expected. I&amp;rsquo;m very well today.
-It&amp;rsquo;s said that half of Bufferin is made of tenderness. I wonder I was starving for ternderness.</description>
+      <description>Yesterday, I have had chills, headache and runny nose. Maybe I had a cold, so I took Bufferin Ex. It cured me, as I expected. I&#39;m very well today.
+It&#39;s said that half of Bufferin is made of tenderness. I wonder I was starving for ternderness.</description>
     </item>
     
     <item>
@@ -1345,7 +1366,7 @@ To learn daily conversation, I will watch it twice each time. The first time, I 
       <pubDate>Sun, 09 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-09/</guid>
-      <description>I registered to NETFLIX, because it displays movie&amp;rsquo;s caption in English. To study English in a fun way, it&amp;rsquo;s good for me to watch movies in English. My favorite movie is &amp;ldquo;You vs. Wild&amp;rdquo; featuring Bear Grylls.
+      <description>I registered to NETFLIX, because it displays movie&#39;s caption in English. To study English in a fun way, it&#39;s good for me to watch movies in English. My favorite movie is &amp;ldquo;You vs. Wild&amp;rdquo; featuring Bear Grylls.
 NETFLIX is free for the first month, so during the period I will try to find out if NETFLIX is useful to studying English.
 I like movies very much, so &amp;ldquo;what one likes, one will do well.</description>
     </item>
@@ -1356,7 +1377,7 @@ I like movies very much, so &amp;ldquo;what one likes, one will do well.</descri
       <pubDate>Sat, 08 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-08/</guid>
-      <description>Today, I surfed in this morning and this evening. The waves size are from shoulder to head, it&amp;rsquo;s high for me. It&amp;rsquo;s hard for me to getting out to out-side.
+      <description>Today, I surfed in this morning and this evening. The waves size are from shoulder to head, it&#39;s high for me. It&#39;s hard for me to getting out to out-side.
 I rode waves only a few times, and wiped out many times. The sea is fairly cold that I might caught a bit cold. Still, I enjoyed surfing very much and I will keep surfing.</description>
     </item>
     
@@ -1368,7 +1389,7 @@ I rode waves only a few times, and wiped out many times. The sea is fairly cold 
       <guid>https://naomori.github.io/journal/posts/2019-06-07/</guid>
       <description>My goal through my life is to be a &amp;ldquo;master of life&amp;rdquo;. The word, &amp;ldquo;master of life&amp;rdquo;, was told in the comic &amp;ldquo;Master Keaton&amp;rdquo;.
 &amp;ldquo;Master of life&amp;rdquo; is a person who lives life in his own way and always has the life of his own colour. &amp;ldquo;Master Keaton vol.7&amp;rdquo; Chapter 3, page.79
-It&amp;rsquo;s my goal, but I have not reached there at all. But I believe I will be able to become &amp;ldquo;master of life&amp;rdquo; someday, if I can continue studying for a lifetime.</description>
+It&#39;s my goal, but I have not reached there at all. But I believe I will be able to become &amp;ldquo;master of life&amp;rdquo; someday, if I can continue studying for a lifetime.</description>
     </item>
     
     <item>
@@ -1377,10 +1398,10 @@ It&amp;rsquo;s my goal, but I have not reached there at all. But I believe I wil
       <pubDate>Thu, 06 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-06/</guid>
-      <description>I use a textbook &amp;ldquo;TOUCHSTONE 2nd edition Student&amp;rsquo;s Book Level 3&amp;rdquo; in my English lesson. It&amp;rsquo;s at the low intermediate CFER level (A2-B1).
+      <description>I use a textbook &amp;ldquo;TOUCHSTONE 2nd edition Student&#39;s Book Level 3&amp;rdquo; in my English lesson. It&#39;s at the low intermediate CFER level (A2-B1).
 The followings are the homework I have to do by tomorrow.
 page.5: Lesson-B 3.C Who do you admire ? I admire my brother.
-Why ? Because, he works as a engineer in America. I also want to work as a engineer in America or Europe. I envy him working abroad and I&amp;rsquo;m proud of him.</description>
+Why ? Because, he works as a engineer in America. I also want to work as a engineer in America or Europe. I envy him working abroad and I&#39;m proud of him.</description>
     </item>
     
     <item>
@@ -1389,8 +1410,8 @@ Why ? Because, he works as a engineer in America. I also want to work as a engin
       <pubDate>Wed, 05 Jun 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-05/</guid>
-      <description>I took an English conversation lesson, it&amp;rsquo;s the first time I came back from my honeymoon.
-I have visited England, Scotland, Canada and America in my honeymoon, so I thought that my English skill improve a little bit maybe, but it&amp;rsquo;s not at all.
+      <description>I took an English conversation lesson, it&#39;s the first time I came back from my honeymoon.
+I have visited England, Scotland, Canada and America in my honeymoon, so I thought that my English skill improve a little bit maybe, but it&#39;s not at all.
 I will study English harder than before so I can work abroad. Of course, I want to enjoy studying English. The proverb says, &amp;ldquo;what one likes, one will do well.</description>
     </item>
     
@@ -1400,8 +1421,8 @@ I will study English harder than before so I can work abroad. Of course, I want 
       <pubDate>Sun, 02 Jun 2019 19:32:23 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-06-02/</guid>
-      <description>I bought this class a year ago, but I haven&amp;rsquo;t been studying python so much recently. I&amp;rsquo;ll try learning python again for improving my programming skill.
-This class is very good and reasonable price. I think it fits people who want to study python for the first time. Anyway, it&amp;rsquo;s fun for me to study python. I&amp;rsquo;ll learn python in a fun way from now on.
+      <description>I bought this class a year ago, but I haven&#39;t been studying python so much recently. I&#39;ll try learning python again for improving my programming skill.
+This class is very good and reasonable price. I think it fits people who want to study python for the first time. Anyway, it&#39;s fun for me to study python. I&#39;ll learn python in a fun way from now on.
 The progress of studying python is managed by the following github.</description>
     </item>
     
@@ -1423,8 +1444,8 @@ I think I have to do exercise, because I have been gaining weight from before, I
       <pubDate>Thu, 30 May 2019 18:10:54 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-05-31/</guid>
-      <description>AWS DeepRace League - Technical Workdshop Yesterday, I joined the &amp;ldquo;AWS Deep Racer League - Technical Workhop&amp;rdquo;, because I wanted to have fun learning about machine learning. The AWS DeepRacer is a 1&amp;frasl;18 scale racing car and it makes it possible to learn Reinforcement Learning (RL) in a fun way. It was disappointing that the hands-on was disabled due to a failure of the AWS service.
-The presenter explained DeepRacer&amp;rsquo;s Reinforcement Learning and its simulator.</description>
+      <description>AWS DeepRace League - Technical Workdshop Yesterday, I joined the &amp;ldquo;AWS Deep Racer League - Technical Workhop&amp;rdquo;, because I wanted to have fun learning about machine learning. The AWS DeepRacer is a 1/18 scale racing car and it makes it possible to learn Reinforcement Learning (RL) in a fun way. It was disappointing that the hands-on was disabled due to a failure of the AWS service.
+The presenter explained DeepRacer&#39;s Reinforcement Learning and its simulator.</description>
     </item>
     
     <item>
@@ -1435,7 +1456,7 @@ The presenter explained DeepRacer&amp;rsquo;s Reinforcement Learning and its sim
       <guid>https://naomori.github.io/journal/posts/2019-05-30/</guid>
       <description>Yesterday, I surfed for the first time in two years. The waves were waist high and very good for me. The water temperature was still a little cold and I needed a wetsuit.
 Surfing after a long time was very pleasant and fun, I felt like going to keep surfing from now on.
-This is the surfboard I used. It&amp;rsquo;s the Softech&amp;rsquo;s soft-surfboard: SALLY FITZGIBBONS SIGNATURE 7&amp;rsquo;0&amp;rdquo;. This long, buoyant surfboard is good for me because I am not strong and underexercised.</description>
+This is the surfboard I used. It&#39;s the Softech&#39;s soft-surfboard: SALLY FITZGIBBONS SIGNATURE 7&#39;0&amp;rdquo;. This long, buoyant surfboard is good for me because I am not strong and underexercised.</description>
     </item>
     
     <item>
@@ -1447,9 +1468,9 @@ This is the surfboard I used. It&amp;rsquo;s the Softech&amp;rsquo;s soft-surfbo
       <description>&amp;ldquo;How to build your confidence - and spark it others&amp;rdquo; I lose my confidence when I fail and disappointed myself,
 when I was given cold stares, when I was blamed, and
 when I was ignored.
-This TED talk, Ms. Brittany Packnett&amp;rsquo;s speech, gives me a confidence.
+This TED talk, Ms. Brittany Packnett&#39;s speech, gives me a confidence.
 It tells me that I need not lose my confidence.
-Impressed words  Confidence is the necessary spark before everything that follows. Permission births confidence, community nurtures it and curiosity affirms it.</description>
+ Impressed words  Confidence is the necessary spark before everything that follows. Permission births confidence, community nurtures it and curiosity affirms it.</description>
     </item>
     
     <item>
@@ -1458,7 +1479,7 @@ Impressed words  Confidence is the necessary spark before everything that follow
       <pubDate>Fri, 19 Apr 2019 23:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/posts/2019-04-19/</guid>
-      <description>Today, we went to Buckingham Palace to see changing of the guard. I&amp;rsquo;ve seen that before on TV. There was crowded so much. A lot of tourists came to see that like us. We saw changing the guard, they were like toy soldiers. After that, we went to British Museum to see Rosetta Stone. I was very impressed because it was the key to solving the mysteries of ancient Egypt. </description>
+      <description>Today, we went to Buckingham Palace to see changing of the guard. I&#39;ve seen that before on TV. There was crowded so much. A lot of tourists came to see that like us. We saw changing the guard, they were like toy soldiers. After that, we went to British Museum to see Rosetta Stone. I was very impressed because it was the key to solving the mysteries of ancient Egypt. </description>
     </item>
     
     <item>
@@ -1467,7 +1488,7 @@ Impressed words  Confidence is the necessary spark before everything that follow
       <pubDate>Thu, 18 Apr 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-04-18/</guid>
-      <description> English Breakfast I ate English breakfast in England for the first time. It was lovely delicious.
+      <description>English Breakfast I ate English breakfast in England for the first time. It was lovely delicious.
 Afternoon tea At last I had an afternoon tea in England. The tea is lovely tasty, and scones with plenty of clotted cream too. I enjoyed the afternoon tea.
 Timeline </description>
     </item>
@@ -1478,9 +1499,9 @@ Timeline </description>
       <pubDate>Wed, 17 Apr 2019 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-04-17/</guid>
-      <description>Take a walk in London We had a little bit jet lag, so we were going to relax and take a walk in London. And we&amp;rsquo;d like to buy gifts in return.
-London is a huge and advanced city, however, London has buildings from the Middle Ages. It&amp;rsquo;s an amazing and attractive city.
-Shopping We haven&amp;rsquo;t decided what to buy as gifts yet, so we were going to go window-shopping at Soho and Regent Street.</description>
+      <description>Take a walk in London We had a little bit jet lag, so we were going to relax and take a walk in London. And we&#39;d like to buy gifts in return.
+London is a huge and advanced city, however, London has buildings from the Middle Ages. It&#39;s an amazing and attractive city.
+Shopping We haven&#39;t decided what to buy as gifts yet, so we were going to go window-shopping at Soho and Regent Street.</description>
     </item>
     
     <item>
@@ -1489,9 +1510,9 @@ Shopping We haven&amp;rsquo;t decided what to buy as gifts yet, so we were going
       <pubDate>Tue, 16 Apr 2019 16:10:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-04-16-london/</guid>
-      <description>Immigration I got a little bit nervous at immigration, because I usually get asked many questions at the immigration examination and I can&amp;rsquo;t answer well.
+      <description>Immigration I got a little bit nervous at immigration, because I usually get asked many questions at the immigration examination and I can&#39;t answer well.
 This time, however, immigration officers are very kind. Moreover, my wife said &amp;ldquo;This is our honeymoon&amp;rdquo; then, they said to us &amp;ldquo;Conguraturations!&amp;rdquo; with smile.
-Tube We went to the center of London city by Tube: it&amp;rsquo;s subway in London. To ride Tube, we bought Oyster card at the station.</description>
+Tube We went to the center of London city by Tube: it&#39;s subway in London. To ride Tube, we bought Oyster card at the station.</description>
     </item>
     
     <item>

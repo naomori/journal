@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ML on naomori&#39;s Diary</title>
@@ -17,8 +17,8 @@
       <pubDate>Thu, 30 May 2019 18:10:54 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/posts/2019-05-31/</guid>
-      <description>AWS DeepRace League - Technical Workdshop Yesterday, I joined the &amp;ldquo;AWS Deep Racer League - Technical Workhop&amp;rdquo;, because I wanted to have fun learning about machine learning. The AWS DeepRacer is a 1&amp;frasl;18 scale racing car and it makes it possible to learn Reinforcement Learning (RL) in a fun way. It was disappointing that the hands-on was disabled due to a failure of the AWS service.
-The presenter explained DeepRacer&amp;rsquo;s Reinforcement Learning and its simulator.</description>
+      <description>AWS DeepRace League - Technical Workdshop Yesterday, I joined the &amp;ldquo;AWS Deep Racer League - Technical Workhop&amp;rdquo;, because I wanted to have fun learning about machine learning. The AWS DeepRacer is a 1/18 scale racing car and it makes it possible to learn Reinforcement Learning (RL) in a fun way. It was disappointing that the hands-on was disabled due to a failure of the AWS service.
+The presenter explained DeepRacer&#39;s Reinforcement Learning and its simulator.</description>
     </item>
     
   </channel>

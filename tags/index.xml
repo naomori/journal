@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on naomori&#39;s Diary</title>
@@ -6,10 +6,46 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 18:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 17:30:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>preparation</title>
+      <link>https://naomori.github.io/journal/tags/preparation/</link>
+      <pubDate>Mon, 23 Dec 2019 17:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/preparation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private life</title>
+      <link>https://naomori.github.io/journal/tags/private-life/</link>
+      <pubDate>Mon, 23 Dec 2019 17:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Touchstone-3</title>
+      <link>https://naomori.github.io/journal/tags/touchstone-3/</link>
+      <pubDate>Mon, 23 Dec 2019 17:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://naomori.github.io/journal/tags/review/</link>
+      <pubDate>Sat, 21 Dec 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>public life</title>
@@ -21,38 +57,11 @@
     </item>
     
     <item>
-      <title>preparation</title>
-      <link>https://naomori.github.io/journal/tags/preparation/</link>
-      <pubDate>Thu, 19 Dec 2019 19:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/preparation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private life</title>
-      <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Mon, 16 Dec 2019 22:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>common vocabulary</title>
       <link>https://naomori.github.io/journal/tags/common-vocabulary/</link>
       <pubDate>Sun, 15 Dec 2019 20:57:23 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/common-vocabulary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Sun, 15 Dec 2019 20:57:23 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
     </item>
     
@@ -71,15 +80,6 @@
       <pubDate>Fri, 13 Dec 2019 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/summarize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Touchstone-3</title>
-      <link>https://naomori.github.io/journal/tags/touchstone-3/</link>
-      <pubDate>Fri, 13 Dec 2019 18:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
       <description></description>
     </item>
     
