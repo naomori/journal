@@ -6,10 +6,30 @@
     <description>Recent content in common vocabulary on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2019 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/common-vocabulary/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-12-29: A raspberry pi cluster</title>
+      <link>https://naomori.github.io/journal/posts/2019-12-29/</link>
+      <pubDate>Sun, 29 Dec 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-12-29/</guid>
+      <description>I built a raspberry pi cluster. It consists of four raspberry pi which is a micro computer. I want to learn kubernetes and docker. They are used for management of server application and its resource. You can manage the server applications and server itself using them.
+I started to work with a new team that was developing applications of IoT and Cloud. If I can use and manage kubernetes and docker smoothly, I think if I can make a contribute to the team, I can transfer to the team.</description>
+    </item>
+    
+    <item>
+      <title>2019-12-27: Final English lesson this year</title>
+      <link>https://naomori.github.io/journal/posts/2019-12-27/</link>
+      <pubDate>Fri, 27 Dec 2019 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2019-12-27/</guid>
+      <description>Today&#39;s lesson was the final English lesson this year. I started to study English conversation lesson this March, however, I couldn&#39;t feel improving my English skill so much.
+I think that I ought to study English everyday. Everyday. Christmas and New year&#39;s days are no exception. If I really want to learn English conversation and work abroad or at a japan branch of foreign distribution company, I must study English everyday.</description>
+    </item>
     
     <item>
       <title>2019-12-26: Ophthalmic clinic again</title>
