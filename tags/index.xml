@@ -6,42 +6,15 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2020 18:15:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 12:17:29 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>preparation</title>
-      <link>https://naomori.github.io/journal/tags/preparation/</link>
-      <pubDate>Mon, 06 Jan 2020 18:15:43 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/preparation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private life</title>
-      <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Mon, 06 Jan 2020 18:15:43 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Touchstone-3</title>
-      <link>https://naomori.github.io/journal/tags/touchstone-3/</link>
-      <pubDate>Mon, 06 Jan 2020 18:15:43 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>common vocabulary</title>
       <link>https://naomori.github.io/journal/tags/common-vocabulary/</link>
-      <pubDate>Wed, 01 Jan 2020 22:00:00 +0900</pubDate>
+      <pubDate>Tue, 07 Jan 2020 12:17:29 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/common-vocabulary/</guid>
       <description></description>
@@ -50,9 +23,36 @@
     <item>
       <title>review</title>
       <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Tue, 24 Dec 2019 17:30:00 +0900</pubDate>
+      <pubDate>Tue, 07 Jan 2020 12:17:29 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preparation</title>
+      <link>https://naomori.github.io/journal/tags/preparation/</link>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/preparation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private life</title>
+      <link>https://naomori.github.io/journal/tags/private-life/</link>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Touchstone-3</title>
+      <link>https://naomori.github.io/journal/tags/touchstone-3/</link>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
       <description></description>
     </item>
     
@@ -489,7 +489,7 @@
     </item>
     
     <item>
-      <title>Surfing</title>
+      <title>surfing</title>
       <link>https://naomori.github.io/journal/tags/surfing/</link>
       <pubDate>Sat, 08 Jun 2019 22:00:00 +0900</pubDate>
       
