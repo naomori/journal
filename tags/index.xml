@@ -6,17 +6,35 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 18:30:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>preparation</title>
+      <link>https://naomori.github.io/journal/tags/preparation/</link>
+      <pubDate>Thu, 16 Jan 2020 18:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/preparation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>private life</title>
       <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 16 Jan 2020 18:30:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Touchstone-3</title>
+      <link>https://naomori.github.io/journal/tags/touchstone-3/</link>
+      <pubDate>Thu, 16 Jan 2020 18:30:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
       <description></description>
     </item>
     
@@ -35,24 +53,6 @@
       <pubDate>Thu, 09 Jan 2020 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/common-vocabulary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>preparation</title>
-      <link>https://naomori.github.io/journal/tags/preparation/</link>
-      <pubDate>Thu, 09 Jan 2020 18:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/preparation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Touchstone-3</title>
-      <link>https://naomori.github.io/journal/tags/touchstone-3/</link>
-      <pubDate>Thu, 09 Jan 2020 18:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
       <description></description>
     </item>
     
