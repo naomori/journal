@@ -38,6 +38,27 @@
   </url>
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2020-01-20-ts3-unit7-a/</loc>
+    <lastmod>2020-01-20T18:17:13+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/preparation/</loc>
+    <lastmod>2020-01-20T18:17:13+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/touchstone-3/</loc>
+    <lastmod>2020-01-20T18:17:13+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2020-01-19/</loc>
     <lastmod>2020-01-19T22:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,20 +81,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2020-01-16-ts3-unit6-checkpoint/</loc>
-    <lastmod>2020-01-16T18:30:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/preparation/</loc>
-    <lastmod>2020-01-16T18:30:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/touchstone-3/</loc>
     <lastmod>2020-01-16T18:30:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
