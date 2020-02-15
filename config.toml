@@ -1,7 +1,7 @@
 title = "naomori's Diary"
 baseURL = "https://naomori.github.io/journal"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 themesDir = "themes"
 
 MetaDataFormat = "yaml"
