@@ -3,42 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2020-02-18-ts3-unit8-a/</loc>
-    <lastmod>2020-02-21T17:00:00+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2020-02-24/</loc>
+    <lastmod>2020-02-24T14:29:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2020-02-21T17:00:00+09:00</lastmod>
+    <lastmod>2020-02-24T14:29:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2020-02-21T17:00:00+09:00</lastmod>
+    <lastmod>2020-02-24T14:29:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/preparation/</loc>
-    <lastmod>2020-02-21T17:00:00+09:00</lastmod>
+    <lastmod>2020-02-24T14:29:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/private-life/</loc>
-    <lastmod>2020-02-21T17:00:00+09:00</lastmod>
+    <lastmod>2020-02-24T14:29:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2020-02-24T14:29:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-02-18-ts3-unit8-a/</loc>
     <lastmod>2020-02-21T17:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
