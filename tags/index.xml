@@ -6,10 +6,28 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2020 20:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 10:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>home</title>
+      <link>https://naomori.github.io/journal/tags/home/</link>
+      <pubDate>Mon, 20 Apr 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homework</title>
+      <link>https://naomori.github.io/journal/tags/homework/</link>
+      <pubDate>Mon, 20 Apr 2020 10:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/homework/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>private life</title>
@@ -80,24 +98,6 @@
       <pubDate>Thu, 09 Jan 2020 18:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/common-vocabulary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>https://naomori.github.io/journal/tags/home/</link>
-      <pubDate>Sun, 15 Dec 2019 12:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>homework</title>
-      <link>https://naomori.github.io/journal/tags/homework/</link>
-      <pubDate>Sun, 15 Dec 2019 12:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/homework/</guid>
       <description></description>
     </item>
     
