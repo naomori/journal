@@ -6,10 +6,37 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 18:12:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 07:18:19 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>public life</title>
+      <link>https://naomori.github.io/journal/tags/public-life/</link>
+      <pubDate>Wed, 22 Apr 2020 07:18:19 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/public-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private life</title>
+      <link>https://naomori.github.io/journal/tags/private-life/</link>
+      <pubDate>Tue, 21 Apr 2020 19:15:18 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://naomori.github.io/journal/tags/review/</link>
+      <pubDate>Tue, 21 Apr 2020 19:15:18 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>preparation</title>
@@ -17,15 +44,6 @@
       <pubDate>Mon, 20 Apr 2020 18:12:35 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/preparation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private life</title>
-      <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Mon, 20 Apr 2020 18:12:35 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
       <description></description>
     </item>
     
@@ -57,29 +75,11 @@
     </item>
     
     <item>
-      <title>review</title>
-      <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Sat, 18 Apr 2020 18:39:49 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>trip</title>
       <link>https://naomori.github.io/journal/tags/trip/</link>
       <pubDate>Wed, 12 Feb 2020 22:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/trip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>public life</title>
-      <link>https://naomori.github.io/journal/tags/public-life/</link>
-      <pubDate>Tue, 04 Feb 2020 22:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/public-life/</guid>
       <description></description>
     </item>
     
