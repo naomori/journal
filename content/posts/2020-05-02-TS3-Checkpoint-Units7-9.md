@@ -1,6 +1,6 @@
 +++
 title =  "2020-05-02: Touchstone-3 Checkpoint Units 7-9"
-date = 2020-05-02T17:00:00+09:00
+date = 2020-05-02T10:00:00+09:00
 tags = ["preparation", "private life", "Touchstone-3"]
 +++
 
@@ -55,3 +55,75 @@ Write a piece of advice for each person below. Then role-play conversations in g
   - You'd better experience backpacking, if you did it, you could go to everywhere without much money.
   - You ought to think how to earn much money.
   - If I were you, I would start how to invest stock or foreign exchange.
+
+# 4. I wish, I wish ...
+
+## A. What do these people wish for and why? Compelte the sentences. Compare with a partner.
+
+1. I wish I <u>had</u> a car.
+    - If I <u>had</u> a car, I could go places.
+2. I wish I <u>knew</u> how to swim.
+    - If I <u>could swim</u>, I <u>was able to</u> go snorkeling with my friends.
+3. I wish I <u>could speak</u> Portuguese fluently.
+    - If I <u>were</u>fluent, it <u>could be</u> easier to travel around Brazil.
+4. I wish I <u>had</u> more money.
+    - If I found a job, I could earn more money.
+    - On the other hand, I <u>didn't have</u> enough time to study.
+5. I wish I <u>didn't have to</u> work tonight.
+    - If I <u>were</u> free, I <u>would go out</u> with my friends.
+6. I wish I <u>knew</u> how to use more software programs so I <u>could get</u> a better job.
+
+## B. Use the ideas above to tell a partner two things you wish. Explain wahy.
+
+1. I wish I had 48 hours a day.
+    - If I had 48 hours a day, I would study English and machine learning, and go surfing and jogging.
+    - I could do everything I want to do.
+2. I wish I could speak English well. 
+    - If I could speak English well, I could work abroad, like U.S.A, U.K, or somewhere.
+    - I could enjoy different cultures.
+
+# 5. I wonder ...
+
+## A. Rewrite these questions about the picture. Compare with a parnter.
+
+1. What is it?
+    - Do you know what it is?
+2. How do you turn it on?
+    - Can you tell how you turn it on?
+3. Does it still work?
+    - I wonder if it still works?
+4. How much did it cost?
+    - Do you know how much it costs?
+5. How do you use it?
+    - Can you tell me how you use it?
+
+## B. Look at the picture and ask and answer your questions.
+
+* Do you know what it is?
+* Yes, it's an old record player.
+
+# 6. It's all relative.
+
+## A. How many ways can you complete these questions? Use 'who', 'that', or 'which'. Write them (in parentheses) if you can leave them out.
+
+1. What do you do with electronic gadgets <u>which/that</u> don't work anymore.
+2. What would you do if you got a gift <u>which/that</u> you didn't like?
+3. What do you do whn you see a word <u>which/that</u> you don't know.
+4. What do you do with clothes <u>which/that</u> are out of style?
+5. What would yo do if you had neighbors <u>who</u> played their music too loud?
+
+## B. Aks and answer the questions. Can you use phrasal verbs in your answers?
+
+1. What do you do with electronic gadgets <u>which/that</u> don't work anymore.
+    - I would try to fix it up and look up how to fix by google.
+2. What would you do if you got a gift <u>which/that</u> you didn't like?
+    - I would give it away to someone or sell it off.
+3. What do you do when you see a word <u>which/that</u> you don't know.
+    - I would look it up by google or ask around.
+4. What do you do with clothes <u>which/that</u> are out of style?
+    - I would throw it away or sell it off.
+5. What would you do if you had neighbors <u>who</u> played their music too loud?
+    - I would ask them for turning it down.
+    - I would have them turn it off.
+    - Or, I would shut off the electricity if I can.
+
