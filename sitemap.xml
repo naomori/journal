@@ -59,6 +59,13 @@
   </url>
   
   <url>
+    <loc>https://naomori.github.io/journal/tags/review/</loc>
+    <lastmod>2020-05-02T16:33:06+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2020-05-02-ts3-checkpoint-units7-9/</loc>
     <lastmod>2020-05-02T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -74,13 +81,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2020-04-30/</loc>
-    <lastmod>2020-04-30T12:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/review/</loc>
     <lastmod>2020-04-30T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
