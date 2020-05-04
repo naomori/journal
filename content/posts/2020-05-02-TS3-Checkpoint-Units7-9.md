@@ -80,7 +80,9 @@ Write a piece of advice for each person below. Then role-play conversations in g
     - I could do everything I want to do.
 2. I wish I could speak English well. 
     - If I could speak English well, I could work abroad, like U.S.A, U.K, or somewhere.
-    - I could enjoy different cultures.
+    - I could enjoy different cultures and various dishes.
+3. I wish I could go to Cebu.
+    - If I could go to Cebu, I would enjoy studying English and eating philippine foods.
 
 # 5. I wonder ...
 
