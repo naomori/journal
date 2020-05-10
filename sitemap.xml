@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://naomori.github.io/journal/posts/2020-05-09-news/</loc>
+    <lastmod>2020-05-09T15:59:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/</loc>
+    <lastmod>2020-05-09T15:59:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/news/</loc>
+    <lastmod>2020-05-09T15:59:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2020-05-09T15:59:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2020-05-09T15:59:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/vocabulary/</loc>
+    <lastmod>2020-05-09T15:59:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-05-08-news/</loc>
+    <lastmod>2020-05-08T13:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://naomori.github.io/journal/posts/2020-05-07-homework/</loc>
     <lastmod>2020-05-07T19:03:54+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,35 +73,7 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2020-05-07T19:03:54+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2020-05-07T19:03:54+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
-    <lastmod>2020-05-07T19:03:54+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/posts/2020-05-07-news/</loc>
-    <lastmod>2020-05-07T15:46:33+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/news/</loc>
     <lastmod>2020-05-07T15:46:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
