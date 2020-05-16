@@ -6,10 +6,19 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2020 18:05:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 20:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>review</title>
+      <link>https://naomori.github.io/journal/tags/review/</link>
+      <pubDate>Fri, 15 May 2020 20:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>news</title>
@@ -71,15 +80,6 @@
       <pubDate>Thu, 07 May 2020 15:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Mon, 04 May 2020 19:30:10 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
     </item>
     
