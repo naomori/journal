@@ -3,35 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2020-05-17/</loc>
-    <lastmod>2020-05-17T12:00:00+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2020-05-18-ts3-unit10-b/</loc>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2020-05-17T12:00:00+09:00</lastmod>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2020-05-17T12:00:00+09:00</lastmod>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/preparation/</loc>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/private-life/</loc>
-    <lastmod>2020-05-17T12:00:00+09:00</lastmod>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/touchstone-3/</loc>
+    <lastmod>2020-05-18T17:57:32+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-05-18-news/</loc>
+    <lastmod>2020-05-18T13:10:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/news/</loc>
+    <lastmod>2020-05-18T13:10:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/vocabulary/</loc>
+    <lastmod>2020-05-18T13:10:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-05-17/</loc>
     <lastmod>2020-05-17T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -60,20 +102,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2020-05-13-news/</loc>
-    <lastmod>2020-05-13T18:05:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/news/</loc>
-    <lastmod>2020-05-13T18:05:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/vocabulary/</loc>
     <lastmod>2020-05-13T18:05:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -123,20 +151,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2020-05-07-ts3-unit10-a/</loc>
-    <lastmod>2020-05-07T15:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/preparation/</loc>
-    <lastmod>2020-05-07T15:00:00+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/touchstone-3/</loc>
     <lastmod>2020-05-07T15:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
