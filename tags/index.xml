@@ -6,7 +6,7 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2020 19:11:48 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 11:21:37 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>private life</title>
       <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Thu, 28 May 2020 19:11:48 +0900</pubDate>
+      <pubDate>Sun, 31 May 2020 11:21:37 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://naomori.github.io/journal/tags/news/</link>
+      <pubDate>Sat, 30 May 2020 10:37:48 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://naomori.github.io/journal/tags/review/</link>
+      <pubDate>Fri, 29 May 2020 22:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
     </item>
     
@@ -44,24 +62,6 @@
       <pubDate>Thu, 28 May 2020 16:35:44 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/touchstone-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://naomori.github.io/journal/tags/news/</link>
-      <pubDate>Wed, 27 May 2020 09:13:13 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Tue, 26 May 2020 20:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
     </item>
     
