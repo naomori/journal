@@ -3,21 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2020-06-04-ts3-unit10-d/</loc>
-    <lastmod>2020-06-04T18:57:19+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2020-06-08-homework/</loc>
+    <lastmod>2020-06-08T18:56:31+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/homework/</loc>
+    <lastmod>2020-06-08T18:56:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2020-06-04T18:57:19+09:00</lastmod>
+    <lastmod>2020-06-08T18:56:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
+    <lastmod>2020-06-08T18:56:31+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2020-06-08T18:56:31+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-06-06-news/</loc>
+    <lastmod>2020-06-06T15:16:16+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/news/</loc>
+    <lastmod>2020-06-06T15:16:16+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-06-05/</loc>
+    <lastmod>2020-06-05T09:03:22+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/tags/review/</loc>
+    <lastmod>2020-06-05T09:03:22+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-06-04-ts3-unit10-d/</loc>
     <lastmod>2020-06-04T18:57:19+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,13 +87,6 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/</loc>
-    <lastmod>2020-06-04T18:57:19+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/posts/2020-06-04-homework/</loc>
     <lastmod>2020-06-04T16:34:51+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -52,21 +94,7 @@
   </url>
   
   <url>
-    <loc>https://naomori.github.io/journal/tags/review/</loc>
-    <lastmod>2020-06-04T16:34:51+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://naomori.github.io/journal/posts/2020-06-02-news/</loc>
-    <lastmod>2020-06-02T08:19:22+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/news/</loc>
     <lastmod>2020-06-02T08:19:22+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -263,13 +291,6 @@
   
   <url>
     <loc>https://naomori.github.io/journal/posts/2020-05-07-homework/</loc>
-    <lastmod>2020-05-07T19:03:54+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://naomori.github.io/journal/tags/homework/</loc>
     <lastmod>2020-05-07T19:03:54+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
