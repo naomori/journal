@@ -6,15 +6,42 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 19:24:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 18:30:31 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>news</title>
+      <link>https://naomori.github.io/journal/tags/news/</link>
+      <pubDate>Thu, 18 Jun 2020 18:30:31 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>private life</title>
+      <link>https://naomori.github.io/journal/tags/private-life/</link>
+      <pubDate>Thu, 18 Jun 2020 18:30:31 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://naomori.github.io/journal/tags/book/</link>
+      <pubDate>Wed, 17 Jun 2020 18:00:00 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>review</title>
       <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Mon, 15 Jun 2020 19:24:39 +0900</pubDate>
+      <pubDate>Tue, 16 Jun 2020 08:18:08 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
@@ -26,24 +53,6 @@
       <pubDate>Mon, 15 Jun 2020 17:30:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/preparation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private life</title>
-      <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Mon, 15 Jun 2020 17:30:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://naomori.github.io/journal/tags/news/</link>
-      <pubDate>Sat, 13 Jun 2020 20:00:00 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/news/</guid>
       <description></description>
     </item>
     
