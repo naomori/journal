@@ -6,7 +6,7 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2020 17:12:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 18:37:29 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>news</title>
       <link>https://naomori.github.io/journal/tags/news/</link>
-      <pubDate>Mon, 22 Jun 2020 17:12:57 +0900</pubDate>
+      <pubDate>Thu, 25 Jun 2020 18:37:29 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://naomori.github.io/journal/tags/review/</link>
+      <pubDate>Mon, 22 Jun 2020 19:04:45 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
     </item>
     
@@ -35,15 +44,6 @@
       <pubDate>Mon, 22 Jun 2020 12:00:00 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/private-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://naomori.github.io/journal/tags/review/</link>
-      <pubDate>Fri, 19 Jun 2020 08:07:39 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/review/</guid>
       <description></description>
     </item>
     
