@@ -6,10 +6,29 @@
     <description>Recent content in private life on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 17:42:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 18:39:39 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/private-life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020-07-17: Touchstone-3 Unit-11 Lesson.D</title>
+      <link>https://naomori.github.io/journal/posts/2020-07-17-ts3-unit11-d/</link>
+      <pubDate>Fri, 17 Jul 2020 18:39:39 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2020-07-17-ts3-unit11-d/</guid>
+      <description>Unit-11: Impressions Lesson.D: Making an impression 3. Writing: My impression is &amp;hellip; To the international Book project.
+I&amp;rsquo;m interested in your activities that you help people by sending books nad building libraries. In my opinion, education helps so many people independent rather than any other method. The beautiful thing about learning is that no one can take it away from you, I belive.</description>
+    </item>
+    
+    <item>
+      <title>2020-07-17: this week</title>
+      <link>https://naomori.github.io/journal/posts/2020-07-17/</link>
+      <pubDate>Fri, 17 Jul 2020 14:16:40 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/posts/2020-07-17/</guid>
+      <description>This week, I was trying to train a model which recognize human faces and vehicle registration plates. However, I have a problem that the it needs more CPU power to train a model. It&amp;rsquo;s a practical problem. So I decided to use Google Colaboratory to use more CPU and GPU/TPU to compute faster. Although, I have another problem about a storage to hold a dataset for training the model. The problem is that Google Colaboratory can&amp;rsquo;t have much storage, therefore I want to use Amazon S3 and tried it, but it&amp;rsquo;s too slow to read.</description>
+    </item>
     
     <item>
       <title>2020-07-13: Touchstone-3 Unit-11 Lesson.D</title>
