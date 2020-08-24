@@ -6,10 +6,19 @@
     <description>Recent content in Tags on naomori&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 11:10:34 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 06:42:28 +0900</lastBuildDate>
     
 	<atom:link href="https://naomori.github.io/journal/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>private life</title>
+      <link>https://naomori.github.io/journal/tags/private-life/</link>
+      <pubDate>Mon, 24 Aug 2020 06:42:28 +0900</pubDate>
+      
+      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>English self-learning</title>
@@ -26,15 +35,6 @@
       <pubDate>Mon, 17 Aug 2020 13:56:25 +0900</pubDate>
       
       <guid>https://naomori.github.io/journal/tags/self-introduction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>private life</title>
-      <link>https://naomori.github.io/journal/tags/private-life/</link>
-      <pubDate>Sat, 15 Aug 2020 11:04:16 +0900</pubDate>
-      
-      <guid>https://naomori.github.io/journal/tags/private-life/</guid>
       <description></description>
     </item>
     
