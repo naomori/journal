@@ -3,35 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naomori.github.io/journal/posts/2020-11-21-english/</loc>
-    <lastmod>2020-11-21T19:02:28+09:00</lastmod>
+    <loc>https://naomori.github.io/journal/posts/2020-11-26-english/</loc>
+    <lastmod>2020-11-26T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/english-self-learning/</loc>
-    <lastmod>2020-11-21T19:02:28+09:00</lastmod>
+    <lastmod>2020-11-26T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/</loc>
-    <lastmod>2020-11-21T19:02:28+09:00</lastmod>
+    <lastmod>2020-11-26T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/posts/</loc>
-    <lastmod>2020-11-21T19:02:28+09:00</lastmod>
+    <lastmod>2020-11-26T12:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://naomori.github.io/journal/tags/</loc>
+    <lastmod>2020-11-26T12:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-11-25-english/</loc>
+    <lastmod>2020-11-25T12:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-11-24-english/</loc>
+    <lastmod>2020-11-24T12:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-11-23-english/</loc>
+    <lastmod>2020-11-23T12:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-11-22-english/</loc>
+    <lastmod>2020-11-22T15:00:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://naomori.github.io/journal/posts/2020-11-21-english/</loc>
     <lastmod>2020-11-21T19:02:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
