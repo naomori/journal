@@ -66,32 +66,40 @@ tags = ["English self-learning"]
   - It's the first scene in "The Walking Dead" movie.
 * come out
   - If cancellation of the next Olympic games comes out, all athletes will be disappointed.
+  - Since the origin of the virus came out, people began to blame that country. 
 * come about
   - The corona virus came about in China has spread out all over the world.
+  - A good idea came about in my head, but it has been gone at once.
 * come up
   - When I heard that the virus came up at first, I didn't think it could spread out like this.
+  - Anyway, we need to come up against this pandemic definitely.
 * come across
   - When the good idea came across my mind, I think I maybe genius.
+  - I came across the good product in a chance and bought it at once.
 * come down
   - When I sell something, I'm prepared to come down to 20% off.
+  - The women in Osaka often make sellers to come down their price.
 * come to
   - I came to a decision not to think everything too seriously.
+  - We eventually came to a decision not to go on a trip in the end of the year.
 
 #### come out
 1. if something comes out, it is removed from a place
 2. if information comes out, people learn about it, especially after it has been kept secret
-    - It will be come out that some aliens lives on the Earth.
-    - If cancellation of the next Olympic games comes out,
-        all athletes will be disappointed.
+    - It will be come out that some aliens live on the Earth.
+    - If cancellation of the next Olympic games comes out, all athletes will be disappointed with that.
 3. if a photograph comes out, it shows a clear picture
 4. if a book, record etc comes out, it becomes publicly available
     - A new version of the software library will come out next week.
+    - I'm looking forward to the album which will coming out next month.
 
 #### come off
 1. to become removed from something
     - The sticker didn't come off the table clean.
+    - The stain of soy sauce will not come off the shirt.
 2. if something that has been planned comes off, it happens
     - Eventually the end of the pandemic will come off.
+    - The fourth waves of this pandemic will come off.
 3. to be successful
     - I wish a new vaccine come off pretty well.
     - I'll be glad that the trip I'm planning comes off well.
@@ -128,3 +136,4 @@ tags = ["English self-learning"]
 
 1. to decide something, agree on something etc after considering or discussing a situation
     - If I don't come to a decision by tomorrow, the reservation will be cancelled.
+    - As all decision we came to by mutual consent were cancelled, we were horribly disappointed.
